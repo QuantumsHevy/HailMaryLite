@@ -2,12 +2,46 @@
 A somewhat functional model of the Hail Mary ISV from Project Hail Mary (2026), intended to be as lightweight as possible while maintaining a high level of visual accuracy to the source material.
 
 ## Mods Used
+All of these mods are available to download via CKAN. At a minimum, I recommend installing the latest versions of all the mods listed under *Parts* and *Editing*.
 
+**Parts**
+- [Project Hail Mary Spin Drive](https://github.com/NatoKerbal/Spin-Drive)
+- [Near Future Launch Vehicles](https://github.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles)
+- [Near Future Construction](https://github.com/post-kerbin-mining-corporation/NearFutureConstruction)
+- [Far Future Technologies](https://github.com/post-kerbin-mining-corporation/FarFutureTechnologies)
+- [Cryo Tanks](https://github.com/post-kerbin-mining-corporation/CryoTanks)
+- [ISV Emporium](https://spacedock.info/mod/4109/ISV%20Emporium)
+- [ReStock & ReStock+](https://github.com/PorktoberRevolution/ReStocked)
+- [Stockalike Station Parts Expansion Redux](https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux)
+- [HabTech2](https://github.com/benjee10/HabTech2)
+- [Sterling Thermals](https://github.com/JadeOfMaar/SterlingSystems)
+- [Procedural Parts](https://github.com/KSP-RO/ProceduralParts)
+- [Conformal Decals](https://git.offworld.city/drewcassidy/KSP-Conformal-Decals)
+
+**Editing**
+- [TU NearFutureLaunchVehicles](https://github.com/ZZetho/TU_NearFutureLaunchVehicles)
+- [TURD - Stock Recolor](https://github.com/KerbalPowers/TURD-StockRecolour)
+- [TURD - Breaking Ground](https://github.com/KerbalPowers/TURD-MH-BG)
+- [TURD - Making History](https://github.com/KerbalPowers/TURD-MH-BG)
+- [Simple Repaint](https://github.com/judicator/SimpleRepaint)
+- [TweakScale Rescaled](https://github.com/JonnyOThan/TweakScale)
+- [Superfluous Nodes](https://spacedock.info/mod/2064/Superfluous%20Nodes)
+- [Superfluous Nodes Renoded](https://github.com/munktron239/SuperfluousNodes-Renoded)
+- [Hangar Extender](https://github.com/linuxgurugamer/FShangarExtender)
+- [Editor Extensions Redux](https://github.com/linuxgurugamer/EditorExtensionsRedux)
+
+
+**Quality-of-Life**
+- [Kerbal Joint Reinforcement Continued](https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued)
+- [BetterRCS](https://github.com/yobeefjerkyYBJ/BetterRCS_KSP)
+- [Engine ISP x2](https://github.com/miki-g/M-ISPx2)
+- [HyperEdit](https://github.com/Ezriilc/HyperEdit)
+- [Kerbal Engineer Redux](https://github.com/jrbudda/KerbalEngineer)
 
 ## Installation
-After installing all the required mods, download the repository ZIP by clicking the green "Code" button and then clicking "Download ZIP". Unzip the resulting file and copy/paste the contents of `SPH` into your game's folder of the same name, which should under a parent folder called `Ships`. 
+After installing all the required mods, download the repository ZIP by clicking the green "Code" button and then clicking "Download ZIP". Unzip the resulting file and copy/paste the contents of `SPH` into your game's folder of the same name, which should be under a parent folder called `Ships`. 
 
-When done correctly, the resulting path should look like this:
+When done correctly, the path to the craft file should look like this:
 ```
 KerbalSpaceProgram/
 └── Ships/
@@ -21,7 +55,7 @@ KerbalSpaceProgram/
 
 ## Credits
 - **[QuantumsHevy](https://github.com/QuantumsHevy)**, original craft creator
-
+- **[Yukon09](https://www.youtube.com/@yukon09)**, creator of the craft used in [Hail Mary, Full of Grace](https://youtu.be/WmFkNU1Fc7Q) and primary inspiration
 
 ## License
-<a href="https://github.com/QuantumsHevy/HailMaryLite">HailMaryLite</a> © 2026 by <a href="https://github.com/QuantumsHevy">QuantumsHevy</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](./LICENSE) (CC BY-NC-SA 4.0). To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
