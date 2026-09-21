@@ -26,6 +26,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "NearFuturePropulsion",
+            "suppress_recommendations": true
+        },
+        {
             "name": "ReStock",
             "suppress_recommendations": true
         },
@@ -58,10 +62,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "KerbalEngineerRedux",
-            "suppress_recommendations": true
-        },
-        {
             "name": "KerbalJointReinforcementContinued",
             "suppress_recommendations": true
         },
@@ -70,15 +70,15 @@
             "suppress_recommendations": true
         },
         {
-            "name": "NearFuturePropulsion",
-            "suppress_recommendations": true
-        },
-        {
             "name": "ProceduralParts",
             "suppress_recommendations": true
         },
         {
             "name": "SpinDrive",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RecolorCollection-NearFuturePropulsion",
             "suppress_recommendations": true
         },
         {
@@ -110,14 +110,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "TURD-BreakingGround",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TURD-MakingHistory",
-            "suppress_recommendations": true
-        },
-        {
             "name": "TURD-StockRecolour",
             "suppress_recommendations": true
         },
@@ -126,6 +118,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2026-09-21T19:33:42.6507529Z",
+    "release_date": "2026-09-21T19:54:17.5691683Z",
     "kind": "metapackage"
 }
