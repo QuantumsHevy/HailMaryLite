@@ -21,8 +21,7 @@ All of these mods are available to download via CKAN. At a minimum, I recommend 
 **Editing**
 - [TU NearFutureLaunchVehicles](https://github.com/ZZetho/TU_NearFutureLaunchVehicles)
 - [TURD - Stock Recolor](https://github.com/KerbalPowers/TURD-StockRecolour)
-- [TURD - Breaking Ground](https://github.com/KerbalPowers/TURD-MH-BG)
-- [TURD - Making History](https://github.com/KerbalPowers/TURD-MH-BG)
+- [Recolor Collection - Near Future Propulsion](https://github.com/ZZetho/TU_NearFuturePropulsion)
 - [Simple Repaint](https://github.com/judicator/SimpleRepaint)
 - [TweakScale Rescaled](https://github.com/JonnyOThan/TweakScale)
 - [Superfluous Nodes](https://spacedock.info/mod/2064/Superfluous%20Nodes)
@@ -35,7 +34,6 @@ All of these mods are available to download via CKAN. At a minimum, I recommend 
 - [BetterRCS](https://github.com/yobeefjerkyYBJ/BetterRCS_KSP)
 - [Engine ISP x2](https://github.com/miki-g/M-ISPx2)
 - [HyperEdit](https://github.com/Ezriilc/HyperEdit)
-- [Kerbal Engineer Redux](https://github.com/jrbudda/KerbalEngineer)
 - [MechJeb 2](https://github.com/MuMech/MechJeb2)
 
 ## Installation
