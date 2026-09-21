@@ -8,6 +8,7 @@ All of these mods are available to download via CKAN. At a minimum, I recommend 
 - [Project Hail Mary Spin Drive](https://github.com/NatoKerbal/Spin-Drive)
 - [Near Future Launch Vehicles](https://github.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles)
 - [Near Future Construction](https://github.com/post-kerbin-mining-corporation/NearFutureConstruction)
+- [Near Future Propulsion](https://github.com/post-kerbin-mining-corporation/NearFuturePropulsion)
 - [Far Future Technologies](https://github.com/post-kerbin-mining-corporation/FarFutureTechnologies)
 - [Cryo Tanks](https://github.com/post-kerbin-mining-corporation/CryoTanks)
 - [ISV Emporium](https://spacedock.info/mod/4109/ISV%20Emporium)
@@ -30,8 +31,7 @@ All of these mods are available to download via CKAN. At a minimum, I recommend 
 - [Hangar Extender](https://github.com/linuxgurugamer/FShangarExtender)
 - [Editor Extensions Redux](https://github.com/linuxgurugamer/EditorExtensionsRedux)
 
-
-**Quality-of-Life**
+**QOL**
 - [Kerbal Joint Reinforcement Continued](https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued)
 - [BetterRCS](https://github.com/yobeefjerkyYBJ/BetterRCS_KSP)
 - [Engine ISP x2](https://github.com/miki-g/M-ISPx2)
@@ -39,18 +39,17 @@ All of these mods are available to download via CKAN. At a minimum, I recommend 
 - [Kerbal Engineer Redux](https://github.com/jrbudda/KerbalEngineer)
 
 ## Installation
-After installing all the required mods, download the repository ZIP by clicking the green "Code" button and then clicking "Download ZIP". Unzip the resulting file and copy/paste the contents of `SPH` into your game's folder of the same name, which should be under a parent folder called `Ships`. 
+After installing all the required mods and their dependencies, download the repository ZIP by clicking the green "Code" button and then clicking "Download ZIP". Unzip the resulting file and copy/paste the contents of `SPH` into your save's folder of the same name. 
 
 When done correctly, the path to the craft file should look like this:
 ```
 KerbalSpaceProgram/
-└── Ships/
-    ├── @thumbs/
-    ├── SPH/
-    │   ├── The Hail Mary/
-    │   ├── aDifferentCraft.craft
-    │   └── ...
-    └── VAB/
+└── saves/
+    └── <your save's name>/
+        └── Ships/
+            ├── SPH/
+            |   └── The Hail Mary/
+            └── VAB/
 ```
 
 ## Credits
