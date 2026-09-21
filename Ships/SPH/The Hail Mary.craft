@@ -2,7 +2,7 @@ ship = The Hail Mary
 version = 1.12.5
 description = A one-way Astrophage-powered interstellar vessel designed to transport a crew of three approximately 12 light-years from Sol to Tau Ceti.
 type = SPH
-size = 20.2664299,121.793335,65.7040558
+size = 20.2664375,121.793503,65.7712097
 steamPublishedFileId = 0
 persistentId = 2378398690
 rot = 0,0,0,0
@@ -12,13 +12,13 @@ OverrideDefault = False,False,False,False
 OverrideActionControl = 0,0,0,0
 OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
-_modVersions = Scale_Redist=3.3.2|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|Unity.Burst.Unsafe=1.0.0|Unity.Mathematics=1.0.0|Microsoft.Extensions.FileSystemGlobbing=6.0.21|System.IO.Compression=4.6.57|System.Runtime.CompilerServices.Unsafe=4.700.20|System.Runtime=4.0.0|Unity.Burst=1.7.4|System.IO.Compression.FileSystem=4.6.57|Unity.Collections=0.8.0|Unity.Jobs=0.2.9|KSPBurst=1.7.4|Kopernicus.Parser=1.0.0|ModularFlightIntegrator=1.2.10|SharpDX=4.2.0|SharpDX.DXGI=4.2.0|SharpDX.Direct3D11=4.2.0|KSPTextureLoader=1.0.36|Kopernicus=1.12.247|VertexMitchellNetravaliHeightMap=0.3.0|SerializationFix=1.0.1|BlendshapeModelLoader=1.6.4|TexturesUnlimited=1.6.4|aaa_Toolbar=1.8.1|VertexColorMapEmissive=1.0.0|ToolbarControl=0.1.9|B9PartSwitch=2.21.0|BatteryActivator=1.2.0|BetterTimeWarpCont=2.3.14|CameraTools=1.37.1|Chatterer=0.9.99|CCK=5.1.0|Shabby=0.4.2|ConformalDecals=0.4.2|Unity.TextMeshPro=2.1.6|SimpleBoiloff=0.2.1|MagiCore=1.4.0|DatedQuickSaves=1.2.5|DeployableEngines=2.2.0|DiscordRP=2.0.1|DistantObject=0.0.0|KSPe.Light.DOE=2.5.5|DynamicBatteryStorage=1.0.0|EasyVesselSwitch=2.3.7852|KSPDev_Utils.2.6-EVS=2.6.0|EditorExtensionsRedux=3.4.7|EnhancedDynamics=1.0.7|Atmosphere=3.2.2|CelestialShadows=3.2.2|CityLights=3.2.2|EVEManager=3.2.2|PartFX=3.2.2|PQSManager=3.2.2|ShaderLoader=3.2.2|Terrain=3.2.2|TextureConfig=3.2.2|Utils=3.2.2|_BuildManager=3.2.2|FarFutureTechnologies=1.0.0|FireflyAPI=1.0.0|Firefly=1.0.6|FireflyInstallChecker=1.0.0|Firespitter=7.3.7660|FP_DockingSndFX=2.1.12|FreeIva=0.2.20|HangerExtenderExtended=3.6.1|HabTech2=1.0.0|HUDReplacer=1.4.2|JanitorsCloset=0.4.1|MechJeb2=2.15.3|MechJebLib=1.0.0|RasterPropMonitor=1.1.0|MechJebRPM=1.1.0|Kerbal3DExporter=0.0.4|KerbalChangelog=1.4.2|KerbalEngineer.Unity=1.0.0|KerbalEngineer=1.1.9|KerbalFX.Core=0.0.0|KerbalFX.AeroFX=0.0.0|KerbalFX.BlastFX=0.0.0|KerbalFX.ImpactPuffs=0.0.0|KerbalFX.RoverDust=0.0.0|KerbalJointReinforcement=3.8.7|DeployableAeroSurfaces=1.0.0|HyperEdit=1.5.9|KerbVisionIR=2.0.2|KEX-Common=1.0.0|KEX-EmissiveFX=1.0.0|KEX-EVAFootprints=1.0.0|KEX-RegionalPQSMods=1.0.0|KEX-VertexHeightDeformity=1.0.0|KEX-VertexHeightMap16=1.0.0|KEX-Wormholes=1.0.0|RunSharp=1.0.0|KronalUtils=1.0.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.41.1|KSPCommunityPartModules=0.5.1|KSPTextureLoader.Burst=0.0.0|LoadingScreenManager=1.2.8|alglib=1.0.0|MechJebLibBindings=1.0.0|NavHudRenewed=1.4.0|NearFutureElectrical=1.0.0|NearFutureExploration=0.4.0|NFPropUtils=1.0.0|NearFuturePropulsion=0.9.0|NearFutureSolar=0.4.0|NearFutureUtils=0.0.0|ParallaxContinued=1.0.0|ParkingBrake=0.5.0|PatchManager=0.0.17|KSPDev_Utils.2.2=2.2.7417|PAWRangeBuff=0.2.5|PersistentThrust=1.7.5|ROUtils=1.2.0|ProceduralParts=2.8.0|RCSBuildAid=1.0.6|RCSBuildAidToolbar=1.0.6|Restock=1.0.0|Reviva=1.0.2|RocketSoundEnhancement.Unity=0.9.13|RocketSoundEnhancement=0.9.13|ScaledDecorator=1.0.0|SCANsat=21.1.0|SCANmechjeb=21.1.0|SCANsat.Unity=21.1.0|scatterer=0.908.0|SensibleScreenshot=1.2.5|ShipEffectsContinued=1.0.13|ShowFPS=0.3.3|Singularity=0.994.9632|SmokeScreen=2.8.14|SpaceDust=0.5.4|KSP_Log=1.2.0|ButtonManager=1.0.2|KSP_ColorPicker=1.1.1|KSP_PartHighlighter=1.1.1|SpaceTuxUtility=1.0.2|VesselModuleSave=1.0.2|SpeedUnitAnnex=1.6.1|HabUtils=1.0.0|DualAxisSolar=1.0.0|SystemHeat=0.9.1|TextureReplacer=4.5.3|TiltEm=2.0.1|Trajectories=2.4.5|TweakScaleSafetyNet=3.3.2|Scale=3.3.2|Waterfall=0.11.0|TweakScale_Waterfall=3.3.2|VABOrganizer=0.0.0|VaporCones=1.0.0|KerbalActuators=1.0.0|WBIResources=1.0.0|Blueshift=1.0.0|Deferred=1.3.5|[x]_Science!=6.0.3
+_modVersions = Scale_Redist=3.3.2|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|SerializationFix=1.0.1|BlendshapeModelLoader=1.6.4|TexturesUnlimited=1.6.4|ToolbarControl=0.1.9|B9PartSwitch=2.21.0|SimpleBoiloff=0.2.1|DeployableEngines=2.2.0|DynamicBatteryStorage=1.0.0|EditorExtensionsRedux=3.4.7|FarFutureTechnologies=1.0.0|HangerExtenderExtended=3.6.1|HabTech2=1.0.0|KerbalChangelog=1.4.2|KerbalEngineer.Unity=1.0.0|KerbalEngineer=1.1.9|KerbalJointReinforcement=3.8.7|HyperEdit=1.5.9|KronalUtils=1.0.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.41.1|alglib=1.0.0|MechJeb2=2.15.3|MechJebLib=1.0.0|MechJebLibBindings=1.0.0|NearFuturePropulsion=0.9.0|ROUtils=1.2.0|ProceduralParts=2.8.0|Restock=1.0.0|SpaceDust=0.5.4|HabUtils=1.0.0|DualAxisSolar=1.0.0|SystemHeat=0.9.1|Scale=3.3.2|Waterfall=0.11.0|TweakScale_Waterfall=3.3.2
 PART
 {
 	part = ht2.bishop_4286832222
 	partName = Part
-	persistentId = 1438161115
-	pos = 4.22820449E-06,37.4311028,-0.40007633
+	persistentId = 3194933598
+	pos = 4.22820449E-06,37.431179,-0.400077045
 	attPos = 0,0,0
 	attPos0 = 1.07695723E-05,0.51709199,1.43018013E-07
 	rot = 0.707106829,0,2.00971831E-14,0.707106829
@@ -175,21 +175,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -266,10 +251,10 @@ PART
 {
 	part = restock-drone-core-375-1_4286639688
 	partName = Part
-	persistentId = 2379927987
-	pos = 0,37.4310799,0
+	persistentId = 2187024187
+	pos = 0,37.4311562,0
 	attPos = -1.37182406E-06,-1.04679728,1.44948608E-05
-	attPos0 = 0,37.4310799,0
+	attPos0 = 0,37.4311562,0
 	rot = 0.707106829,0,0,0.707106829
 	attRot = 0,0,0,1
 	attRot0 = 0.707106769,0,0,0.707106769
@@ -1092,7 +1077,7 @@ PART
 			MechJebModuleThrustController
 			{
 				LimitThrottle = False
-				LimiterMinThrottle = False
+				LimiterMinThrottle = True
 				ElectricThrottle = False
 				unlockParts = 
 				unlockTechs = 
@@ -1200,81 +1185,6 @@ PART
 	}
 	MODULE
 	{
-		name = ParkingBrakeModule
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TrajectoriesVesselSettings
-		isEnabled = True
-		Initialized = False
-		EntryAngle = 3.1415926535897931
-		EntryHorizon = False
-		HighAngle = 3.1415926535897931
-		HighHorizon = False
-		LowAngle = 3.1415926535897931
-		LowHorizon = False
-		GroundAngle = 3.1415926535897931
-		GroundHorizon = False
-		RetrogradeEntry = True
-		TargetBody = 
-		TargetPosition_x = 0
-		TargetPosition_y = 0
-		TargetPosition_z = 0
-		ManualTargetTxt = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -1347,8 +1257,8 @@ PART
 {
 	part = sspx-adapter-25-1875-1_4286877576
 	partName = Part
-	persistentId = 2437612448
-	pos = 5.09805977E-06,37.4311028,-0.932757258
+	persistentId = 1831449260
+	pos = 5.09805977E-06,37.431179,-0.932758689
 	attPos = 0,0,0
 	attPos0 = -9.46239458E-16,-0.532685578,-6.73974796E-08
 	rot = 0.499999881,-0.5,-0.500000358,0.49999994
@@ -1502,51 +1412,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -1604,8 +1469,8 @@ PART
 {
 	part = sspx-science-1875-1_4286910486
 	partName = Part
-	persistentId = 758985690
-	pos = 7.42450311E-06,37.431118,-4.29719925
+	persistentId = 3455638824
+	pos = 7.42450311E-06,37.4311943,-4.29720497
 	attPos = 0,0,0
 	attPos0 = -1.28569127E-06,2.72290325,1.00883153E-05
 	rot = 1.92217428E-07,0.707106888,-0.707106769,-1.8710422E-07
@@ -1890,36 +1755,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -2007,8 +1842,8 @@ PART
 {
 	part = adapter-rad-125_4286815398
 	partName = Part
-	persistentId = 1989284401
-	pos = 1.20086879E-05,35.2310944,-2.89712906
+	persistentId = 1589874725
+	pos = 1.20086888E-05,35.2311707,-2.89713192
 	attPos = 2.02877573E-06,-0.115329504,0.200652599
 	attPos0 = 1.91658728E-06,-1.28472769,1.99937057
 	rot = 0.50000006,-0.500000119,-0.500000358,-0.499999821
@@ -2112,28 +1947,13 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = sspx-attach-1875-1_4286768000
 	partName = Part
-	persistentId = 2537104778
-	pos = 0.600008547,37.4311028,-5.09715509
+	persistentId = 2115396371
+	pos = 0.600008547,37.431179,-5.09716082
 	attPos = 0.323284745,0.307964653,9.57938573E-06
 	attPos0 = -0.923281491,0.49197945,9.57673001E-06
 	rot = 1.1920929E-07,-4.47034836E-07,0.707107186,-0.707106531
@@ -2271,21 +2091,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -2343,11 +2148,11 @@ PART
 {
 	part = sspx-tube-1875-2_4286752820
 	partName = Part
-	persistentId = 653183848
-	pos = 2.14000773,37.4310875,-5.09712839
+	persistentId = 3223728138
+	pos = 2.14000773,37.4311638,-5.09713411
 	attPos = 0,0,0
 	attPos0 = 9.35794924E-06,1.53998184,3.20917279E-05
-	rot = 0.707106888,-0.707106948,-8.94069672E-08,-2.98023224E-07
+	rot = 0.707107067,-0.707106709,5.96046448E-08,-2.08616257E-07
 	attRot = 0.49999994,-0.49999994,0.49999994,0.49999994
 	attRot0 = -1,-2.98023167E-07,1.6391273E-07,3.42726622E-07
 	mir = 1,1,1
@@ -2498,51 +2303,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -2600,11 +2360,11 @@ PART
 {
 	part = sspx-attach-1875-1_4286767040
 	partName = Part
-	persistentId = 3113363590
-	pos = -0.599999964,37.4311256,-5.09712839
+	persistentId = 133653986
+	pos = -0.599999964,37.4312019,-5.09713411
 	attPos = -0.323283195,0.307934076,-1.6527445E-05
 	attPos0 = 0.923283458,0.49197951,9.39791607E-06
-	rot = -4.47034836E-07,-1.1920929E-07,0.70710665,0.707107186
+	rot = 0,-4.47034836E-07,0.707107067,0.707106769
 	attRot = 0,0,0,1
 	attRot0 = -0.49999994,-0.500000417,0.499999732,-0.5
 	mir = 1,1,1
@@ -2739,21 +2499,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -2811,11 +2556,11 @@ PART
 {
 	part = sspx-utility-1875-1_4287159326
 	partName = Part
-	persistentId = 2732695445
-	pos = 5.50039385E-06,37.4311256,-7.41002655
+	persistentId = 3817666299
+	pos = 5.50039749E-06,37.4312019,-7.41003799
 	attPos = 0,0,0
 	attPos0 = 2.07450441E-07,3.15535069,6.28013004E-06
-	rot = 0.707106829,-1.97111447E-07,-1.82210201E-07,0.707106829
+	rot = 0.707106829,-1.97111504E-07,-1.82210144E-07,0.707106829
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
 	mir = 1,1,1
@@ -3030,51 +2775,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -3173,11 +2873,11 @@ PART
 {
 	part = restock-adapter-1875-125-1_4290530646
 	partName = Part
-	persistentId = 2920464386
-	pos = -1.291695,37.4311256,-5.09714508
+	persistentId = 1809884387
+	pos = -1.29169536,37.4312019,-5.09715509
 	attPos = 0,0,0
 	attPos0 = -4.17231121E-07,0.691687942,-1.20647644E-06
-	rot = -0.500000119,0.500000298,-0.49999994,-0.499999881
+	rot = -0.500000179,0.500000417,-0.49999994,-0.499999791
 	attRot = 0,0,-0.707106709,-0.707106709
 	attRot0 = -5.96046334E-07,0.707107008,1.31553804E-07,-0.707106471
 	mir = 1,1,1
@@ -3291,36 +2991,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -3363,11 +3033,11 @@ PART
 {
 	part = sspx-adapter-1875-125-1_4290308402
 	partName = Part
-	persistentId = 3220875083
-	pos = 3.0898149,37.4310875,-5.09712744
+	persistentId = 2292564461
+	pos = 3.0898149,37.4311638,-5.09713316
 	attPos = 0,0,0
 	attPos0 = 8.3301245E-08,-0.949796319,1.54373606E-06
-	rot = 0.499999911,0.500000238,-0.500000119,0.50000006
+	rot = 0.499999642,0.500000238,-0.500000238,0.50000006
 	attRot = 0,0,-0.707106769,0.707106769
 	attRot0 = -0.707107008,-4.12695975E-08,-0.70710665,-2.46891965E-08
 	mir = 1,1,1
@@ -3517,36 +3187,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -3604,8 +3244,8 @@ PART
 {
 	part = ht2.moduleJEMlogistics_4287195538
 	partName = Part
-	persistentId = 277519284
-	pos = 5.37931965E-06,37.4311256,-11.1783609
+	persistentId = 2007638739
+	pos = 5.37932328E-06,37.4312019,-11.1783724
 	attPos = 0,0,0
 	attPos0 = -2.91264328E-08,-3.76831126,9.36270159E-13
 	rot = 1.28997186E-07,0.707106948,-0.707106709,-1.23883893E-07
@@ -3627,6 +3267,8 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	link = restock-oretank-375-1_4287172946
+	link = launchClamp1_4293540338
+	link = launchClamp1_4293538768
 	attN = nodeTop,restock-oretank-375-1_4287172946_-2.58069119E-14|0.907999992|-1.1920929E-07_-4.86860952E-14|1|5.96046448E-08_-2.58069119E-14|0.907999992|-1.1920929E-07_-4.86860952E-14|1|5.96046448E-08
 	attN = nodeBottom,sspx-utility-1875-1_4287159326_6.74088335E-14|-0.77186954|8.34465027E-07_1.50995831E-07|-1|5.96046341E-08_6.74088335E-14|-0.77186954|8.34465027E-07_1.50995831E-07|-1|5.96046341E-08
 	attN = node1,Null_0_0.701351285|0.88659209|0.701350689_0.291922092|0.910803795|0.291921616_0.701351285|0.88659209|0.701350689_0.291922092|0.910803795|0.291921616
@@ -3815,51 +3457,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -3936,8 +3533,8 @@ PART
 {
 	part = restock-oretank-375-1_4287172946
 	partName = Part
-	persistentId = 362357817
-	pos = 4.66406482E-06,37.4311256,-12.6863947
+	persistentId = 2350100761
+	pos = 4.66406937E-06,37.4312019,-12.6864176
 	attPos = 0,0,0
 	attPos0 = 3.76587514E-13,1.50800788,9.53674089E-07
 	rot = 0.707106888,-1.56242876E-07,-9.66382032E-08,0.707106769
@@ -4037,21 +3634,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 0.666666687
@@ -4088,8 +3670,8 @@ PART
 {
 	part = ht2.moduleJEMlogistics_4287224800
 	partName = Part
-	persistentId = 1986469029
-	pos = 4.90248431E-06,37.4311256,-14.1944084
+	persistentId = 1913613111
+	pos = 4.90248703E-06,37.4312019,-14.1944313
 	attPos = 0,0,0
 	attPos0 = -3.35080586E-08,-1.50800705,7.27595761E-12
 	rot = 1.86045327E-07,-0.707106829,-0.707106829,6.68358169E-08
@@ -4299,51 +3881,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -4420,8 +3957,8 @@ PART
 {
 	part = sspx-adapter-25-375-2_4287207632
 	partName = Part
-	persistentId = 270000534
-	pos = 3.78117147E-06,37.4311256,-15.2422905
+	persistentId = 2913463453
+	pos = 3.7811742E-06,37.4312019,-15.2423134
 	attPos = 0,0,0
 	attPos0 = -1.0179499E-08,-1.04788053,1.09919608E-11
 	rot = 0.707106888,-1.56242876E-07,-9.66382032E-08,0.707106769
@@ -4575,36 +4112,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -4662,8 +4169,8 @@ PART
 {
 	part = ht2.MPLM_4287583508
 	partName = Part
-	persistentId = 3925712370
-	pos = 0.00318723731,37.4311333,-17.6693859
+	persistentId = 1129855552
+	pos = 0.00318723731,37.4312096,-17.6694088
 	attPos = 0,0,0
 	attPos0 = 4.6270593E-06,4.22649384,1.77856225E-06
 	rot = 0.707106888,-1.56242876E-07,-9.66382032E-08,0.707106769
@@ -4852,51 +4359,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -4973,8 +4435,8 @@ PART
 {
 	part = asasmodule1-2_4287270956
 	partName = Part
-	persistentId = 3972468735
-	pos = 0.00318729319,37.4311333,-20.3268948
+	persistentId = 1007193235
+	pos = 0.00318729319,37.4312096,-20.3269176
 	attPos = 0,0,0
 	attPos0 = 8.38190317E-08,-2.53249097,4.49860596E-15
 	rot = 0.707106948,3.34178765E-08,9.30226918E-08,0.707106709
@@ -5114,36 +4576,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1.5
@@ -5169,8 +4601,8 @@ PART
 {
 	part = sspx-habitation-375-1_4287778218
 	partName = Part
-	persistentId = 708076585
-	pos = 0.00318597141,37.4311333,-22.6459141
+	persistentId = 2382745654
+	pos = 0.00318597001,37.4312096,-22.645937
 	attPos = 0,0,0
 	attPos0 = 3.72168074E-09,-2.31901431,1.90734863E-06
 	rot = 0.5,-0.5,-0.500000238,0.49999994
@@ -5424,51 +4856,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -5545,11 +4932,11 @@ PART
 {
 	part = sspx-attach-25-1_4287564838
 	partName = Part
-	persistentId = 1213484463
-	pos = 1.40320504,37.4311256,-22.645895
+	persistentId = 2494216301
+	pos = 1.40320504,37.4312019,-22.6459179
 	attPos = 3.9337001E-06,-0.00287056225,0.410871744
 	attPos0 = 4.33751211E-06,0.00288965669,-1.81086886
-	rot = 0.707107067,0.70710659,2.98023224E-08,-3.87430191E-07
+	rot = 0.707107067,0.70710659,-1.49011612E-07,-7.15255737E-07
 	attRot = 0,0,0,1
 	attRot0 = 1.83132656E-07,0.707106352,-0.707107246,-8.94069387E-08
 	mir = 1,1,1
@@ -5700,21 +5087,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -5772,11 +5144,11 @@ PART
 {
 	part = cupola_4290233872
 	partName = Part
-	persistentId = 386871729
-	pos = 2.38921571,37.4311256,-22.6459141
+	persistentId = 1982305267
+	pos = 2.38921666,37.4312019,-22.6459408
 	attPos = 0,0,0
 	attPos0 = 7.85748171E-07,0.986002922,1.92523057E-05
-	rot = -0.499999762,-0.500000238,0.500000358,-0.50000006
+	rot = -0.499999911,-0.500000238,0.500000238,-0.499999732
 	attRot = 0,0,0.707106709,-0.707106709
 	attRot0 = 1.30942439E-07,0.707106948,1.75645837E-07,-0.707106709
 	mir = 1,1,1
@@ -5796,7 +5168,6 @@ PART
 	modSize = 0,0,0
 	attN = bottom,sspx-attach-25-1_4287564838_0|-0.400000006|0_0|-1|0_0|-0.400000006|0_0|-1|0
 	attN = top,Null_0_0|0.829999983|0_0|1|0_0|0.829999983|0_0|1|0
-	attN = airlock,Null_0_0|0.075000003|-1.26999998_0|0|-1_0|0.075000003|-1.26999998_0|0|-1
 	attN = connect01,Null_0_0.899999976|0|0.899999976_1|0|1_0.899999976|0|0.899999976_1|0|1
 	attN = connect02,Null_0_-0.899999976|0|0.899999976_-1|0|1_-0.899999976|0|0.899999976_-1|0|1
 	attN = connect03,Null_0_-0.899999976|0|-0.899999976_-1|0|-1_-0.899999976|0|-0.899999976_-1|0|-1
@@ -6052,26 +5423,6 @@ PART
 	}
 	MODULE
 	{
-		name = RasterPropMonitorComputer
-		isEnabled = True
-		vesselDescription = 
-		RPMCid = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		PERSISTENT_VARS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = MechJebCore
 		isEnabled = True
 		running = True
@@ -6178,134 +5529,11 @@ PART
 	}
 	MODULE
 	{
-		name = ParkingBrakeModule
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleIVASwitch
-		isEnabled = True
-		internalName = cupolaInternal
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = IVASwitch
-		currentSubtype = Stock
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
 		moduleID = SNDiagonalNodes
 		currentSubtype = No Nodes
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TrajectoriesVesselSettings
-		isEnabled = True
-		Initialized = False
-		EntryAngle = 3.1415926535897931
-		EntryHorizon = False
-		HighAngle = 3.1415926535897931
-		HighHorizon = False
-		LowAngle = 3.1415926535897931
-		LowHorizon = False
-		GroundAngle = 3.1415926535897931
-		GroundHorizon = False
-		RetrogradeEntry = True
-		TargetBody = 
-		TargetPosition_x = 0
-		TargetPosition_y = 0
-		TargetPosition_z = 0
-		ManualTargetTxt = 
-		stagingEnabled = True
 		EVENTS
 		{
 		}
@@ -6465,8 +5693,8 @@ PART
 {
 	part = sspx-attach-25-1_4287563654
 	partName = Part
-	persistentId = 4165833852
-	pos = -1.39683425,37.4311333,-22.6458836
+	persistentId = 3016519040
+	pos = -1.39683354,37.4312096,-22.6459064
 	attPos = -8.10643542E-06,-0.00286101294,-0.410872936
 	attPos0 = 3.86067495E-06,0.00288960221,1.81087172
 	rot = -0.707107425,0.707106411,3.57627869E-07,1.28149986E-06
@@ -6620,21 +5848,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -6692,11 +5905,11 @@ PART
 {
 	part = sspx-tube-25-2_4287363804
 	partName = Part
-	persistentId = 2966276541
-	pos = -2.95586205,37.4311409,-22.6459007
+	persistentId = 1590682203
+	pos = -2.95586205,37.4312172,-22.6459389
 	attPos = 0,0,0
 	attPos0 = 4.0748323E-06,1.559003,-1.09672665E-05
-	rot = 5.96046448E-08,3.87430191E-07,-0.707107425,-0.707106411
+	rot = 0,3.87430191E-07,-0.707107425,-0.707106411
 	attRot = 0.49999994,-0.49999994,-0.49999994,-0.49999994
 	attRot0 = -6.25283647E-08,1,-4.76837101E-07,-3.99703026E-07
 	mir = 1,1,1
@@ -6866,51 +6079,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -6968,11 +6136,11 @@ PART
 {
 	part = sspx-attach-25-1_4287328298
 	partName = Part
-	persistentId = 635554778
-	pos = -3.15590954,37.4311256,-21.645874
+	persistentId = 2761037565
+	pos = -3.15590954,37.4312019,-21.6459122
 	attPos = -7.83809537E-06,0.0409526527,-0.173219919
 	attPos0 = -3.02281774E-06,0.159055293,1.17324471
-	rot = 0.50000006,0.499999821,0.50000006,0.500000298
+	rot = 0.5,0.499999851,0.500000119,0.500000238
 	attRot = 0,0,0,1
 	attRot0 = -0.707106531,-8.13269985E-09,7.20561317E-08,-0.707107008
 	mir = 1,1,1
@@ -7123,21 +6291,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -7195,11 +6348,11 @@ PART
 {
 	part = ht2.MPLM_4290256672
 	partName = Part
-	persistentId = 3158418554
-	pos = -3.15803432,37.4311256,-19.5378742
+	persistentId = 4043533417
+	pos = -3.15803337,37.4312019,-19.5378914
 	attPos = 0,0,0
 	attPos0 = 8.80830839E-08,2.10798192,-0.00212621712
-	rot = -7.78563987E-08,0.707106769,-0.707107008,-7.78563702E-08
+	rot = 2.15053518E-07,0.707106709,-0.707107067,4.64661483E-08
 	attRot = 0,0,-0.99999994,0
 	attRot0 = 0.70710659,2.08835516E-07,-0.707106948,-3.01190966E-07
 	mir = 1,1,1
@@ -7384,51 +6537,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -7505,8 +6613,8 @@ PART
 {
 	part = sspx-attach-25-1_4287327504
 	partName = Part
-	persistentId = 899590055
-	pos = -3.1559124,37.4311409,-23.6459236
+	persistentId = 613686590
+	pos = -3.15590954,37.4312172,-23.6459579
 	attPos = -3.10893302E-06,0.199621648,0.183402956
 	attPos0 = -3.87538512E-06,0.000386778527,-1.18338299
 	rot = 0.499999821,-0.500000179,0.500000298,-0.499999881
@@ -7660,21 +6768,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -7732,11 +6825,11 @@ PART
 {
 	part = ht2.moduleColumbus_4287432552
 	partName = Part
-	persistentId = 3028608496
-	pos = -3.15591455,37.4311256,-25.8768997
+	persistentId = 3064902110
+	pos = -3.15591455,37.4312019,-25.8769588
 	attPos = 0,0,0
 	attPos0 = 4.77572894E-06,2.23088336,-5.00678789E-06
-	rot = -0.707106829,1.4240068E-07,3.21214713E-07,-0.707106948
+	rot = -0.707106769,1.48572923E-07,3.57189293E-07,-0.707106888
 	attRot = 0,0,0,-0.999999881
 	attRot0 = 0.707106888,2.38418551E-07,0.707106769,1.49011598E-07
 	mir = 1,1,1
@@ -8052,51 +7145,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -8173,11 +7221,11 @@ PART
 {
 	part = AstrophageGenerator_4286614240
 	partName = Part
-	persistentId = 2245627924
-	pos = -3.1559248,38.2717781,-28.0289536
+	persistentId = 2614116968
+	pos = -3.15592861,38.2718544,-28.0289993
 	attPos = -6.69721794E-06,0.0392551422,0.0180883408
 	attPos0 = -4.34262893E-06,-2.19122505,-0.858730555
-	rot = 0.707107008,2.12231853E-07,-8.57912852E-08,0.70710665
+	rot = 0.707107008,2.12231896E-07,-8.57913278E-08,0.70710665
 	attRot = 0,0,0,1
 	attRot0 = -8.42936601E-08,-2.5757164E-14,-4.21468656E-08,-1
 	mir = 1,1,1
@@ -8287,21 +7335,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -8344,8 +7377,8 @@ PART
 {
 	part = sspx-adapter-25-1875-1_4290207890
 	partName = Part
-	persistentId = 3707565840
-	pos = -4.30276775,37.4311409,-22.6459198
+	persistentId = 134226078
+	pos = -4.30276489,37.4312172,-22.6459579
 	attPos = 0,0,0
 	attPos0 = 1.51723313E-07,1.34689629,-1.94676213E-05
 	rot = -0.499999702,0.500000536,-0.49999994,-0.500000417
@@ -8499,51 +7532,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -8601,11 +7589,11 @@ PART
 {
 	part = asasmodule1-2_4287258662
 	partName = Part
-	persistentId = 1025324486
-	pos = 0.00318510365,37.4311409,-24.9650249
+	persistentId = 3253408747
+	pos = 0.00318510365,37.4312172,-24.9650726
 	attPos = 0,0,0
 	attPos0 = -6.76956821E-15,-2.31901622,-3.72255382E-09
-	rot = 0.707107008,1.26660055E-07,-1.26660026E-07,0.70710665
+	rot = 0.707107008,1.26660368E-07,-1.26660339E-07,0.70710665
 	attRot = 0,0,0,1
 	attRot0 = 5.20282947E-16,0.707106769,-1.408461E-15,0.707106769
 	mir = 1,1,1
@@ -8742,36 +7730,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1.5
@@ -8797,11 +7755,11 @@ PART
 {
 	part = sspx-tube-25-2_4287669848
 	partName = Part
-	persistentId = 3505907617
-	pos = 0.00318479445,37.4311409,-26.7995434
+	persistentId = 2063017028
+	pos = 0.00318479328,37.4312172,-26.7995911
 	attPos = 0,0,0
 	attPos0 = 3.81936571E-09,-1.83451533,-1.14575179E-13
-	rot = 0.707107008,8.94070382E-08,-8.9407024E-08,0.70710665
+	rot = 0.707107008,8.94072443E-08,-8.94072301E-08,0.70710665
 	attRot = 0,0,0,1
 	attRot0 = 0,0,2.64697638E-23,1
 	mir = 1,1,1
@@ -8969,51 +7927,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -9071,11 +7984,11 @@ PART
 {
 	part = adapter-375-25-1_4287986248
 	partName = Part
-	persistentId = 2765750533
-	pos = 0.00318354461,37.4311562,-28.5546856
+	persistentId = 36444319
+	pos = 0.00318354461,37.4312325,-28.5547314
 	attPos = 0,0,0
 	attPos0 = -5.13822442E-08,0.424888223,3.98580831E-08
-	rot = 0.70710665,-1.41561387E-07,-1.41561387E-07,-0.707107008
+	rot = 0.70710665,-1.415615E-07,-1.415615E-07,-0.707107008
 	attRot = 0.99999994,0,0,0
 	attRot0 = 1,-1.14048762E-08,-4.48504157E-15,2.75337584E-08
 	mir = 1,1,1
@@ -9154,21 +8067,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1
@@ -9194,11 +8092,11 @@ PART
 {
 	part = restock-adapter-1875-25-1_4287999892
 	partName = Part
-	persistentId = 2043583009
-	pos = 0.0031834729,37.4311562,-28.9800816
+	persistentId = 4214155144
+	pos = 0.0031834729,37.4312325,-28.9801617
 	attPos = 0,0,0
 	attPos0 = -2.17246381E-08,0.898874044,1.71292342E-07
-	rot = 0.707107008,8.94070382E-08,-8.9407024E-08,0.70710665
+	rot = 0.707107008,8.94072443E-08,-8.94072301E-08,0.70710665
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
 	mir = 1,1,1
@@ -9313,36 +8211,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -9385,11 +8253,11 @@ PART
 {
 	part = sspx-tube-375-3_4286849522
 	partName = Part
-	persistentId = 2570630664
-	pos = 0.00318236835,37.4311562,-29.8794727
+	persistentId = 2084634363
+	pos = 0.00318236812,37.4312325,-29.8795834
 	attPos = 0,0,0
 	attPos0 = 4.38294819E-07,-3.37291002,-3.98067823E-06
-	rot = 0.707107008,8.94070382E-08,-8.9407024E-08,0.70710665
+	rot = 0.707107008,8.94072443E-08,-8.94072301E-08,0.70710665
 	attRot = 0,0,0,1
 	attRot0 = -1,5.19875876E-09,6.27265082E-15,6.23622398E-08
 	mir = 1,1,1
@@ -9557,51 +8425,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -9659,11 +8482,11 @@ PART
 {
 	part = asasmodule1-2_4287265748
 	partName = Part
-	persistentId = 3912563908
-	pos = 0.00318264775,37.4311562,-31.0513287
+	persistentId = 2037798000
+	pos = 0.00318264705,37.4312325,-31.0514393
 	attPos = 0,0,0
 	attPos0 = 1.58264868E-08,-1.09675694,-1.2684377E-06
-	rot = 0.707107008,1.88601859E-07,-2.00144399E-08,0.707106769
+	rot = 0.707107008,1.88601888E-07,-2.00144612E-08,0.707106769
 	attRot = 0,0,0,1
 	attRot0 = -4.21468336E-08,2.38418437E-07,2.47514436E-08,1
 	mir = 1,1,1
@@ -9800,36 +8623,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1.29999995
@@ -9855,11 +8648,11 @@ PART
 {
 	part = sspx-habitation-25-1_4288188168
 	partName = Part
-	persistentId = 620232716
-	pos = 0.00318218837,37.4311562,-33.7722511
+	persistentId = 347279466
+	pos = 0.00318218791,37.4312325,-33.7723541
 	attPos = -5.13694886E-07,0.151008606,3.56483429E-06
 	attPos0 = 3.69248054E-09,-2.72092128,1.27897787E-13
-	rot = 0.70710665,1.34949971E-07,-3.28665351E-07,-0.707107008
+	rot = 0.70710665,1.3495E-07,-3.28665323E-07,-0.707107008
 	attRot = 0.99999994,0,0,0
 	attRot0 = 1,-4.71951046E-15,-5.96047158E-08,-1.21334429E-14
 	mir = 1,1,1
@@ -10110,51 +8903,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -10253,11 +9001,11 @@ PART
 {
 	part = hydrogen-375-1_4288217128
 	partName = Part
-	persistentId = 1082894707
-	pos = 0.00318022352,37.431179,-39.7723503
+	persistentId = 1736208822
+	pos = 0.00318022235,37.4312553,-39.7724495
 	attPos = -7.70756515E-07,-5.26099968,1.22574249E-07
 	attPos0 = -3.80245069E-07,3.86100721,4.48852973E-07
-	rot = 0.707107008,2.15847606E-07,3.703353E-08,0.70710665
+	rot = 0.707107008,2.15847678E-07,3.7033459E-08,0.70710665
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
 	mir = 1,1,1
@@ -10375,21 +9123,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -10409,7 +9142,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -10488,11 +9221,11 @@ PART
 {
 	part = nflv-nflv-fueltank-adapter-5-375-4_4286647412
 	partName = Part
-	persistentId = 3687605437
-	pos = 0.0031833204,37.4311638,-38.3729057
+	persistentId = 1834971573
+	pos = 0.003183319,37.4312401,-38.3730431
 	attPos = 0,0,0
 	attPos0 = -4.75475943E-08,1.38133824,3.83799807E-06
-	rot = 0.707107008,2.15847606E-07,3.703353E-08,0.70710665
+	rot = 0.707107008,2.15847678E-07,3.7033459E-08,0.70710665
 	attRot = 0,0,0,1
 	attRot0 = -3.12590345E-08,0,-1.29478925E-08,1
 	mir = 1,1,1
@@ -10622,21 +9355,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1
@@ -10662,11 +9380,11 @@ PART
 {
 	part = sspx-habitation-375-3_4288361904
 	partName = Part
-	persistentId = 2528806153
-	pos = 0.00318308733,37.431179,-39.7548065
+	persistentId = 2396996553
+	pos = 0.00318308664,37.4312553,-39.7549706
 	attPos = 0,0,0
 	attPos0 = 3.43948727E-08,1.69173741,3.49495963E-07
-	rot = 0.707107127,1.5624282E-07,9.6638324E-08,0.707106531
+	rot = 0.707107127,1.56242777E-07,9.66383595E-08,0.707106531
 	attRot = 0,0,0,1
 	attRot0 = 4.30819025E-09,0.707106829,6.39643432E-08,0.707106829
 	mir = 1,1,1
@@ -10685,6 +9403,8 @@ PART
 	modMass = 1.83962619
 	modSize = 0,0,0
 	link = restock-adapter-1875-25-1_4290422916
+	link = launchClamp1_4293531788
+	link = launchClamp1_4293510078
 	attN = top,nflv-nflv-fueltank-adapter-5-375-4_4286647412_0|1.29733336|0_0|1|0_0|1.29733336|0_0|1|0
 	attN = bottom,restock-adapter-1875-25-1_4290422916_0|-1.29733336|0_0|-1|0_0|-1.29733336|0_0|-1|0
 	EVENTS
@@ -10899,7 +9619,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -10942,51 +9662,6 @@ PART
 		{
 		}
 		STOREDPARTS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
 		{
 		}
 		UPGRADESAPPLIED
@@ -11093,8 +9768,8 @@ PART
 {
 	part = restock-adapter-1875-25-1_4290422916
 	partName = Part
-	persistentId = 3840590173
-	pos = 0.0031847097,37.4311714,-41.4471016
+	persistentId = 1919895166
+	pos = 0.003184709,37.4312477,-41.4473
 	attPos = -6.53162691E-15,2.33591127,-7.45495896E-13
 	attPos0 = -1.96539219E-07,0.340292692,5.95757541E-08
 	rot = 0.500000238,-0.499999642,-0.500000179,0.500000119
@@ -11212,36 +9887,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -11284,11 +9929,11 @@ PART
 {
 	part = nflv-nflv-fueltank-adapter-5-375-4_4290429692
 	partName = Part
-	persistentId = 700692471
-	pos = 0.00318846665,37.431179,-41.7885323
+	persistentId = 2426373503
+	pos = 0.00318846549,37.4312553,-41.7887917
 	attPos = 0,0,0
 	attPos0 = 0,-2.58399439,2.27373675E-13
-	rot = 0.707106829,4.70226354E-07,-6.61097488E-09,0.707106829
+	rot = 0.707106829,4.70226695E-07,-6.61131594E-09,0.707106829
 	attRot = 0,0,0,1
 	attRot0 = 0,0,1,0
 	mir = 1,1,1
@@ -11419,21 +10064,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 2
@@ -11459,11 +10089,11 @@ PART
 {
 	part = nflv-fueltank-75-3_4291089540
 	partName = Part
-	persistentId = 1001163419
-	pos = 0.00318992324,37.4311943,-44.4577332
+	persistentId = 4287729747
+	pos = 0.00318992208,37.4312706,-44.4580269
 	attPos = 0,0,0
 	attPos0 = 0,2.74400139,-9.53674316E-07
-	rot = -2.98862631E-07,0.707106829,-0.707106829,1.64752763E-07
+	rot = -2.98862631E-07,0.707106829,-0.707106829,1.64752748E-07
 	attRot = 0,0,-0.99999994,0
 	attRot0 = 0,0,-1,0
 	mir = 1,1,1
@@ -11593,21 +10223,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -11627,7 +10242,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -11653,38 +10268,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -11743,11 +10326,11 @@ PART
 {
 	part = nflv-fueltank-5-3_4291073972
 	partName = Part
-	persistentId = 1655636117
-	pos = 0.00313373399,44.8928947,-45.3455086
+	persistentId = 2152892367
+	pos = 0.00312896539,44.892971,-45.3458328
 	attPos = 1.04454712E-05,0.000317573547,-0.00035905838
 	attPos0 = 2.38418636E-07,0.88724339,-7.46110868
-	rot = -0.707106948,-1.2004881E-07,3.43566626E-07,0.707106709
+	rot = -0.707106948,-1.20048696E-07,3.4356674E-07,0.707106709
 	attRot = 0,0,0,1
 	attRot0 = 1.45167682E-08,-1,-1.02786409E-07,-2.98023508E-08
 	mir = 1,1,1
@@ -11897,21 +10480,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -11931,7 +10499,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -11957,38 +10525,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -12047,11 +10583,11 @@ PART
 {
 	part = proceduralTankLiquid_4288829928
 	partName = Part
-	persistentId = 1591375356
-	pos = 0.00319817523,41.1432076,-55.2224312
+	persistentId = 3336756636
+	pos = 0.00319388346,41.1432838,-55.2228661
 	attPos = 6.04646557E-05,7.62550831,-3.74966598
 	attPos0 = 1.12676787E-06,2.25000262,8.09192989E-06
-	rot = 0.707107186,3.21214657E-07,1.42400722E-07,0.707106471
+	rot = 0.707107186,3.212146E-07,1.42400779E-07,0.707106471
 	attRot = 0,0,0,1
 	attRot0 = 1,-8.84455602E-08,-2.08616257E-07,-3.18200392E-07
 	mir = 1,1,1
@@ -12356,7 +10892,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -12436,21 +10972,6 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 	RESOURCE
 	{
 		name = LqdHydrogen
@@ -12467,11 +10988,11 @@ PART
 {
 	part = adapter-rad-125_4289093754
 	partName = Part
-	persistentId = 18725270
-	pos = 0.00323130749,41.1433945,-63.4140205
+	persistentId = 1000730478
+	pos = 0.00322844624,41.1434784,-63.4144554
 	attPos = 0,0,0
 	attPos0 = 1.08756967E-06,-9.19103813,-7.97909979E-06
-	rot = 0.707107186,3.21214657E-07,1.42400722E-07,0.707106471
+	rot = 0.707107186,3.212146E-07,1.42400779E-07,0.707106471
 	attRot = 0,0,0,1
 	attRot0 = 0,1.42108496E-14,0,1
 	mir = 1,1,1
@@ -12572,31 +11093,16 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = largeAdapter2_4289105456
 	partName = Part
-	persistentId = 1326129560
-	pos = 0.0032225789,41.1435089,-63.7978172
+	persistentId = 2505065896
+	pos = 0.00321685662,41.1435928,-63.7983437
 	attPos = 0,0,0
 	attPos0 = 7.5566993E-07,-0.382625908,-7.81699964E-06
-	rot = -0.707107067,-2.00946332E-07,-5.19348049E-08,-0.70710659
+	rot = -0.707107067,-2.00946388E-07,-5.19347481E-08,-0.70710659
 	attRot = 0,0,0,-0.999999881
 	attRot0 = 2.75337619E-08,5.36941368E-14,1.1404877E-08,-1
 	mir = 1,1,1
@@ -12713,41 +11219,11 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
 		moduleID = SimpleRepaint
-		currentSubtype = black_porkjet
+		currentSubtype = SR_Original
 		EVENTS
 		{
 		}
@@ -12785,11 +11261,11 @@ PART
 {
 	part = proceduralStructural_4290987158
 	partName = Part
-	persistentId = 3539339344
-	pos = 0.00323504303,69.7438049,-63.622715
+	persistentId = 2267833618
+	pos = 0.00325793098,69.7439346,-63.6231537
 	attPos = 4.64289769E-05,0.0998687744,-27.3578701
 	attPos0 = 1.72862883E-07,-8.50010681,-1.24222159
-	rot = 2.21270966E-07,-2.68220901E-07,1.00000024,7.90253466E-07
+	rot = 9.37767425E-07,-2.68220901E-07,1.00000024,7.05959735E-07
 	attRot = 0,0,0,1
 	attRot0 = -3.4149619E-07,0.707106888,0.70710665,5.37338167E-07
 	mir = 1,1,1
@@ -13138,31 +11614,16 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = proceduralStructural_4290855434
 	partName = Part
-	persistentId = 1474374744
-	pos = 0.00297407224,44.3360519,-60.22295
+	persistentId = 3238780377
+	pos = 0.00296453526,44.3361092,-60.2234192
 	attPos = 7.26222061E-05,-0.633275986,3.14980078
 	attPos0 = -9.33861738E-05,26.033247,0.2500076
-	rot = -0.707106709,3.30163402E-07,1.6157604E-07,0.707107067
+	rot = -0.707106709,2.45870126E-07,2.45870183E-07,0.707106948
 	attRot = 0.707106769,0,0,0.707106769
 	attRot0 = 4.74888751E-08,0.707106709,-0.707106829,1.25533333E-07
 	mir = 1,1,1
@@ -13510,31 +11971,16 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = proceduralStructural_4290822354
 	partName = Part
-	persistentId = 3627742379
-	pos = 0.00410355069,69.7456055,-56.8451385
+	persistentId = 343783711
+	pos = 0.00408066204,69.7457657,-56.8456039
 	attPos = 8.28065095E-05,-0.0625560284,25.148983
 	attPos0 = -7.52385604E-05,-3.33724761,0.251060516
-	rot = 1.36977278E-07,-1.00000036,-3.57627869E-07,1.58050696E-07
+	rot = 4.53078655E-07,-1.00000036,-5.06639481E-07,4.74152102E-07
 	attRot = 0.707106709,0,0,-0.707106709
 	attRot0 = 8.7423814E-08,-0.707106829,-0.707106709,-5.18297831E-08
 	mir = 1,1,1
@@ -13882,31 +12328,16 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = proceduralStructural_4290810756
 	partName = Part
-	persistentId = 2229890525
-	pos = 0.00416396791,46.5451202,-53.4452667
+	persistentId = 1987773013
+	pos = 0.00416015321,46.5451813,-53.4457474
 	attPos = 8.09839985E-05,-0.180456161,-3.14787865
 	attPos0 = -8.98798244E-05,-23.0195198,-0.251986146
-	rot = -0.707106709,3.33778814E-07,3.87508834E-08,0.707107067
+	rot = -0.707106709,1.86265055E-07,1.86265083E-07,0.707106948
 	attRot = 0,-0.707106709,-0.707106709,0
 	attRot0 = -5.73514292E-10,0.707106829,0.707106709,1.14201008E-07
 	mir = 1,1,1
@@ -14254,31 +12685,16 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = proceduralStructural_4290810660
 	partName = Part
-	persistentId = 1730564178
-	pos = 0.00414046226,69.7457581,-50.0452156
+	persistentId = 3622362624
+	pos = 0.00414809119,69.7459259,-50.0456314
 	attPos = 8.35329483E-05,-0.0625910759,22.9489784
 	attPos0 = -7.52385604E-05,-3.33724761,0.251060516
-	rot = 5.79519224E-07,-1.00000024,-8.04662704E-07,5.58445777E-07
+	rot = 8.32400303E-07,-1.00000024,-1.01327896E-06,8.11326856E-07
 	attRot = 0.707106709,0,0,-0.707106709
 	attRot0 = 8.7423814E-08,-0.707106829,-0.707106709,-5.18297831E-08
 	mir = 1,1,1
@@ -14627,31 +13043,16 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = strl-rad-flatb-quad02_4290200422
 	partName = Part
-	persistentId = 1965582326
-	pos = 0.00419792719,37.345192,-50.2453728
+	persistentId = 1957954297
+	pos = 0.00419511041,37.3452377,-50.2458534
 	attPos = 1.81964115E-05,-10.4253502,-0.0504399538
 	attPos0 = -1.60900836E-05,-21.974617,0.250559449
-	rot = -3.87430191E-07,0.707106709,5.66244125E-07,-0.707107067
+	rot = -5.96046448E-07,0.707106709,2.08616257E-07,-0.707107067
 	attRot = 0,0,0,1
 	attRot0 = 3.9824485E-08,-0.707106709,4.56949856E-08,-0.707106888
 	mir = 1,1,1
@@ -14813,21 +13214,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -14868,11 +13254,11 @@ PART
 {
 	part = strl-rad-flatb-quad01_4290192380
 	partName = Part
-	persistentId = 1102454856
-	pos = 0.00316836173,60.9435692,-63.4229202
+	persistentId = 3628688371
+	pos = 0.00314928801,60.9436722,-63.4233627
 	attPos = -4.61781201E-06,-0.747215271,-0.0514116287
 	attPos0 = -1.79440322E-05,9.54716301,0.251197785
-	rot = -0.707106948,-8.34465027E-07,0.707107008,-2.08616257E-07
+	rot = -0.707107186,-6.2584877E-07,0.707106829,-8.34465027E-07
 	attRot = 0,0,0,1
 	attRot0 = -5.19872785E-08,0.707106829,-6.76701504E-08,0.707106888
 	mir = 1,1,1
@@ -15034,21 +13420,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -15089,11 +13460,11 @@ PART
 {
 	part = sspx-lab-pallet-1_4290581450
 	partName = Part
-	persistentId = 4159598431
-	pos = 0.00319695054,43.1431999,-53.4225807
+	persistentId = 3766471623
+	pos = 0.00319599663,43.1432762,-53.4230156
 	attPos = 2.28285353E-06,0.937262058,5.36821318
 	attPos0 = 1.71273484E-06,0.862586021,-7.36822128
-	rot = 0.707107067,0.707106948,8.94069672E-08,5.06639481E-07
+	rot = 0.707106948,0.707107008,0,3.57627869E-07
 	attRot = 0.699099422,0.10611289,0.106113657,0.699099302
 	attRot0 = 0.50000006,0.499999464,-0.49999994,0.500000596
 	mir = 1,1,1
@@ -15191,21 +13562,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -15248,11 +13604,11 @@ PART
 {
 	part = sspx-lab-pallet-1_4290566108
 	partName = Part
-	persistentId = 2793749010
-	pos = 0.00320009328,40.9432182,-60.2226143
+	persistentId = 3444815548
+	pos = 0.00319437101,40.9432945,-60.2230492
 	attPos = 8.70237614E-07,0.985032082,5.42754459
 	attPos0 = 4.16043349E-07,-5.98520994,-5.22755241
-	rot = 5.96046448E-08,3.27825546E-07,-0.707106709,-0.707107127
+	rot = 2.08616257E-07,-1.49011612E-07,-0.707106709,-0.707107067
 	attRot = 0.699099123,0.106113888,-0.106112897,-0.699099481
 	attRot0 = 0.500000477,-0.499999881,-0.499999434,-0.500000298
 	mir = 1,1,1
@@ -15350,21 +13706,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -15407,8 +13748,8 @@ PART
 {
 	part = adapter-rad-125_4287381974
 	partName = Part
-	persistentId = 2116264862
-	pos = 0.00312648551,44.8931694,-43.0842247
+	persistentId = 1146936588
+	pos = 0.00311504118,44.8932457,-43.0845871
 	attPos = 0,0,0
 	attPos0 = -1.55131033E-06,-1.9716723,1.39525528E-05
 	rot = 0.707106948,3.36115846E-07,1.27499533E-07,0.707106709
@@ -15512,28 +13853,13 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = nflv-fueltank-5-3_4288748330
 	partName = Part
-	persistentId = 717208114
-	pos = 0.00312068709,44.8933983,-40.7713547
+	persistentId = 2565666842
+	pos = 0.00311496481,44.8934746,-40.7717514
 	attPos = 0,0,0
 	attPos0 = -1.80986012E-06,2.31327367,-1.567244E-05
 	rot = 0.707106948,3.36115846E-07,1.27499533E-07,0.707106709
@@ -15683,21 +14009,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -15717,7 +14028,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -15743,38 +14054,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -15833,8 +14112,8 @@ PART
 {
 	part = hydrogen-5-2_4288784434
 	partName = Part
-	persistentId = 1573947913
-	pos = 0.00308779557,44.8936729,-36.9733391
+	persistentId = 143420529
+	pos = 0.00307730492,44.8937492,-36.9737625
 	attPos = 5.45942498E-07,-1.89474654,-5.46966885E-06
 	attPos0 = 1.17269008E-06,5.69475651,-2.45346155E-06
 	rot = 0.500000417,-0.499999464,-0.499999642,0.500000656
@@ -15935,21 +14214,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -15969,7 +14233,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -16070,11 +14334,11 @@ PART
 {
 	part = nflv-fueltank-5-2_4288686952
 	partName = Part
-	persistentId = 994534135
-	pos = 0.00308133638,44.8939323,-31.3736649
+	persistentId = 3700209685
+	pos = 0.00307370699,44.8940048,-31.3741188
 	attPos = 1.50456844E-06,-1.89498138,6.51284779E-07
 	attPos0 = -4.11192332E-06,7.49499846,-6.02538075E-10
-	rot = -3.43566114E-07,0.707106769,-0.707106888,1.20049265E-07
+	rot = -3.43566086E-07,0.707106769,-0.707106888,1.20049293E-07
 	attRot = 0,0,-0.99999994,0
 	attRot0 = -0.707106709,-1.88962055E-08,-0.707106888,1.33616318E-08
 	mir = 1,1,1
@@ -16222,21 +14486,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -16256,7 +14505,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -16282,38 +14531,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -16372,11 +14589,11 @@ PART
 {
 	part = nflv-nflv-fueltank-adapter-5-375-4_4288588916
 	partName = Part
-	persistentId = 2650178489
-	pos = 0.00302262045,44.8945007,-27.7742081
+	persistentId = 173799181
+	pos = 0.00299496367,44.8945847,-27.7747593
 	attPos = -1.94743302E-06,0.267590284,-8.16204079E-07
 	attPos0 = 7.03684666E-09,-3.86761498,-2.27926016E-08
-	rot = -3.43566114E-07,0.707106769,-0.707106888,1.20049265E-07
+	rot = -3.43565972E-07,0.707106769,-0.707106888,1.20049407E-07
 	attRot = 0,0,-0.99999994,0
 	attRot0 = 8.88178314E-16,0,-8.88178314E-16,1
 	mir = 1,1,1
@@ -16508,21 +14725,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1.06000006
@@ -16548,8 +14750,8 @@ PART
 {
 	part = nflv-fueltank-5-1_4288755452
 	partName = Part
-	persistentId = 2989048406
-	pos = 0.00295745349,44.8950348,-19.8101406
+	persistentId = 648060849
+	pos = 0.00294505572,44.895134,-19.8106689
 	attPos = 2.20795437E-06,-1.84499073,-8.39804841E-07
 	attPos0 = 1.16441697E-06,-7.96321774,1.77610571E-06
 	rot = 0.500000417,-0.499999464,-0.499999642,0.500000656
@@ -16699,21 +14901,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -16733,7 +14920,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -16759,38 +14946,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -16849,11 +15004,11 @@ PART
 {
 	part = hydrogen-5-2_4288665408
 	partName = Part
-	persistentId = 3152736288
-	pos = 0.00294560893,44.8952408,-10.8096981
+	persistentId = 3454574541
+	pos = 0.00292081316,44.8953629,-10.8102112
 	attPos = 2.05111996E-06,-2.60097122,-6.98956228E-07
 	attPos0 = 3.21132052E-06,11.6010237,-2.92183472E-07
-	rot = 0.707106769,3.80819472E-07,8.27959212E-08,0.707106888
+	rot = 0.707106769,3.80819927E-07,8.27954665E-08,0.707106888
 	attRot = 0,0,0,1
 	attRot0 = 8.63759553E-09,0.707106709,1.95673255E-09,0.707106829
 	mir = 1,1,1
@@ -16951,21 +15106,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -16985,7 +15125,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -17086,11 +15226,11 @@ PART
 {
 	part = nflv-fueltank-5-3_4288636094
 	partName = Part
-	persistentId = 883096699
-	pos = 0.00292393449,44.8954926,-7.60959864
+	persistentId = 3908736947
+	pos = 0.00289532403,44.8956032,-7.61013651
 	attPos = 3.04289233E-06,-2.60724163,-2.68998497E-06
 	attPos0 = -1.43454167E-06,5.80728579,6.07789161E-06
-	rot = 0.707106769,3.80819472E-07,8.27959212E-08,0.707106888
+	rot = 0.707106769,3.80819927E-07,8.27954665E-08,0.707106888
 	attRot = 0,0,0,1
 	attRot0 = 0,0,4.44088998E-16,1
 	mir = 1,1,1
@@ -17237,21 +15377,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -17271,7 +15396,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -17297,38 +15422,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -17387,11 +15480,11 @@ PART
 {
 	part = nflv-fueltank-5-4_4288627746
 	partName = Part
-	persistentId = 1315208017
-	pos = 0.00285729067,44.8960457,-4.79676914
+	persistentId = 3788415349
+	pos = 0.00282105082,44.8961792,-4.79730082
 	attPos = 0,0,0
 	attPos0 = -2.28184967E-06,2.81254077,4.03348895E-06
-	rot = 0.707106769,3.80819472E-07,8.27959212E-08,0.707106888
+	rot = 0.707106769,3.80819927E-07,8.27954665E-08,0.707106888
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
 	mir = 1,1,1
@@ -17540,21 +15633,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -17574,7 +15652,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -17600,38 +15678,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -17690,11 +15736,11 @@ PART
 {
 	part = nflv-nflv-fueltank-adapter-5-375-4_4288620312
 	partName = Part
-	persistentId = 3210547344
-	pos = 0.0028200082,44.8965454,-3.77498865
+	persistentId = 3082634414
+	pos = 0.00278281467,44.8966751,-3.77552557
 	attPos = 0,0,0
 	attPos0 = -2.66474217E-07,1.02154779,3.6734491E-08
-	rot = 0.707106769,3.80819472E-07,8.27959212E-08,0.707106888
+	rot = 0.707106769,3.80819927E-07,8.27954665E-08,0.707106888
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
 	mir = 1,1,1
@@ -17826,21 +15872,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1
@@ -17866,8 +15897,8 @@ PART
 {
 	part = restock-adapter-1875-25-1_4288617868
 	partName = Part
-	persistentId = 1991170993
-	pos = 0.00277048233,44.8971176,-3.60262537
+	persistentId = 1663902406
+	pos = 0.00272279838,44.8972473,-3.60316229
 	attPos = 0,0,0
 	attPos0 = -2.02960337E-07,0.172199011,-7.41874828E-08
 	rot = 0.500000417,-0.499999464,-0.499999642,0.500000656
@@ -17986,36 +16017,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -18058,8 +16059,8 @@ PART
 {
 	part = nflv-fueltank-5-3_4288887380
 	partName = Part
-	persistentId = 1461565366
-	pos = 6.46516752,33.700325,-45.3454971
+	persistentId = 4187939605
+	pos = 6.46516752,33.7004013,-45.345787
 	attPos = -0.000306606293,0.000394105911,0.00021648407
 	attPos0 = -6.46150637,0.887239635,3.73055267
 	rot = -0.353553534,0.612372577,-0.612372696,0.353553295
@@ -18213,21 +16214,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -18247,7 +16233,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -18273,38 +16259,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -18363,8 +16317,8 @@ PART
 {
 	part = proceduralTankLiquid_4288829602
 	partName = Part
-	persistentId = 2443284825
-	pos = 3.21765471,35.5753708,-55.2223701
+	persistentId = 3559471682
+	pos = 3.2176528,35.5754471,-55.2227974
 	attPos = -7.74884757E-05,7.62543774,-3.74991417
 	attPos0 = 1.4329521E-06,2.25000119,3.56863893E-06
 	rot = 0.353553444,-0.612372816,-0.612372458,0.353553385
@@ -18669,7 +16623,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -18749,21 +16703,6 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 	RESOURCE
 	{
 		name = LqdHydrogen
@@ -18780,8 +16719,8 @@ PART
 {
 	part = adapter-rad-125_4288819180
 	partName = Part
-	persistentId = 1877424158
-	pos = 3.21769142,35.5754356,-63.4139557
+	persistentId = 954635440
+	pos = 3.21768951,35.5755119,-63.4143753
 	attPos = 0,0,0
 	attPos0 = -6.25343364E-06,-9.19104385,2.31144645E-06
 	rot = 0.353553116,-0.612372994,-0.612372637,0.353553116
@@ -18885,28 +16824,13 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = largeAdapter2_4288819126
 	partName = Part
-	persistentId = 2887546584
-	pos = 3.21779537,35.5753593,-63.7977753
+	persistentId = 525321841
+	pos = 3.21778536,35.5754356,-63.7983017
 	attPos = 0,0,0
 	attPos0 = 7.5566993E-07,-0.382625908,-7.81699964E-06
 	rot = -0.353553116,0.612372994,0.612372637,-0.353553116
@@ -19026,41 +16950,11 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
 		moduleID = SimpleRepaint
-		currentSubtype = black_porkjet
+		currentSubtype = SR_Original
 		EVENTS
 		{
 		}
@@ -19098,8 +16992,8 @@ PART
 {
 	part = adapter-rad-125_4287379228
 	partName = Part
-	persistentId = 1478942934
-	pos = 6.46537542,33.7001991,-43.0842285
+	persistentId = 2647930901
+	pos = 6.46538496,33.7002754,-43.0845261
 	attPos = 0,0,0
 	attPos0 = 1.50775998E-06,-1.97167301,1.56049609E-05
 	rot = 0.353553027,-0.612373054,-0.612372577,0.353553206
@@ -19203,28 +17097,13 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = nflv-fueltank-5-3_4287374016
 	partName = Part
-	persistentId = 3675081016
-	pos = 6.46554708,33.7001038,-40.7713356
+	persistentId = 1093671831
+	pos = 6.4655509,33.7001801,-40.7716675
 	attPos = 0,0,0
 	attPos0 = 3.79755107E-07,2.31327462,-1.72935888E-05
 	rot = 0.353553474,-0.612372756,-0.612372518,0.353553534
@@ -19374,21 +17253,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -19408,7 +17272,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -19434,38 +17298,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -19524,8 +17356,8 @@ PART
 {
 	part = hydrogen-5-2_4287373900
 	partName = Part
-	persistentId = 1650542768
-	pos = 6.46580553,33.6999664,-36.9732742
+	persistentId = 3824489973
+	pos = 6.46579981,33.7000427,-36.9736252
 	attPos = 5.45942498E-07,-1.89474654,-5.46966885E-06
 	attPos0 = 1.17269008E-06,5.69475651,-2.45346155E-06
 	rot = -0.18301253,-0.683013201,-0.683012962,-0.18301259
@@ -19626,21 +17458,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -19660,7 +17477,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -19761,8 +17578,8 @@ PART
 {
 	part = nflv-fueltank-5-2_4287373756
 	partName = Part
-	persistentId = 1440834376
-	pos = 6.46602964,33.699852,-31.3736935
+	persistentId = 2892458875
+	pos = 6.46602964,33.6999283,-31.374136
 	attPos = 1.50456844E-06,-1.89498138,6.51284779E-07
 	attPos0 = -4.11192332E-06,7.49499846,-6.02538075E-10
 	rot = 0.612372637,0.353553444,-0.353553742,-0.612372756
@@ -19913,21 +17730,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -19947,7 +17749,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -19973,38 +17775,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -20063,8 +17833,8 @@ PART
 {
 	part = nflv-nflv-fueltank-adapter-5-375-4_4287373640
 	partName = Part
-	persistentId = 2374665521
-	pos = 6.46654463,33.699604,-27.7741451
+	persistentId = 1378474905
+	pos = 6.46655798,33.6996803,-27.7746544
 	attPos = -1.94743302E-06,0.267590284,-8.16204079E-07
 	attPos0 = 7.03684666E-09,-3.86761498,-2.27926016E-08
 	rot = 0.612372637,0.353553444,-0.353553742,-0.612372756
@@ -20199,21 +17969,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1.06000006
@@ -20239,8 +17994,8 @@ PART
 {
 	part = nflv-fueltank-5-1_4287373568
 	partName = Part
-	persistentId = 540849913
-	pos = 6.46701097,33.6993904,-19.8100166
+	persistentId = 3852760557
+	pos = 6.46700525,33.6994667,-19.8105106
 	attPos = 2.20795437E-06,-1.84499073,-8.39804841E-07
 	attPos0 = 1.16441697E-06,-7.96321774,1.77610571E-06
 	rot = -0.183012575,-0.68301326,-0.683012903,-0.183012545
@@ -20390,21 +18145,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -20424,7 +18164,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -20450,38 +18190,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -20540,8 +18248,8 @@ PART
 {
 	part = hydrogen-5-2_4287373444
 	partName = Part
-	persistentId = 2217012572
-	pos = 6.46719694,33.6992874,-10.8095932
+	persistentId = 3041137284
+	pos = 6.46720648,33.6993637,-10.8100758
 	attPos = 2.05111996E-06,-2.60097122,-6.98956228E-07
 	attPos0 = 3.21132052E-06,11.6010237,-2.92183472E-07
 	rot = 0.353553534,-0.612372756,-0.612372637,0.353553653
@@ -20642,21 +18350,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -20676,7 +18369,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -20777,8 +18470,8 @@ PART
 {
 	part = nflv-fueltank-5-3_4287373300
 	partName = Part
-	persistentId = 2338915920
-	pos = 6.46740103,33.6991844,-7.60950851
+	persistentId = 3446088481
+	pos = 6.46740484,33.6992607,-7.61001205
 	attPos = 3.04289233E-06,-2.60724163,-2.68998497E-06
 	attPos0 = -1.43454167E-06,5.80728579,6.07789161E-06
 	rot = 0.353553534,-0.612372756,-0.612372637,0.353553653
@@ -20928,21 +18621,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -20962,7 +18640,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -20988,38 +18666,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -21078,8 +18724,8 @@ PART
 {
 	part = nflv-fueltank-5-4_4287373184
 	partName = Part
-	persistentId = 3430031922
-	pos = 6.467875,33.6989403,-4.79661608
+	persistentId = 1455395804
+	pos = 6.46789217,33.6990128,-4.79712534
 	attPos = 0,0,0
 	attPos0 = -2.28184967E-06,2.81254077,4.03348895E-06
 	rot = 0.353553534,-0.612372756,-0.612372637,0.353553653
@@ -21232,21 +18878,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -21266,7 +18897,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -21292,38 +18923,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -21382,8 +18981,8 @@ PART
 {
 	part = nflv-nflv-fueltank-adapter-5-375-4_4287373068
 	partName = Part
-	persistentId = 2596161729
-	pos = 6.46829844,33.6987228,-3.77479696
+	persistentId = 2958572336
+	pos = 6.46830988,33.6987915,-3.77531099
 	attPos = 0,0,0
 	attPos0 = -2.66474217E-07,1.02154779,3.6734491E-08
 	rot = 0.353553534,-0.612372756,-0.612372637,0.353553653
@@ -21518,21 +19117,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1
@@ -21558,8 +19142,8 @@ PART
 {
 	part = restock-adapter-1875-25-1_4287372996
 	partName = Part
-	persistentId = 3384721135
-	pos = 6.4687953,33.698452,-3.60240293
+	persistentId = 2271630865
+	pos = 6.46880674,33.6985168,-3.60291696
 	attPos = 0,0,0
 	attPos0 = -2.02960337E-07,0.172199011,-7.41874828E-08
 	rot = -0.183012575,-0.68301326,-0.683012903,-0.183012545
@@ -21678,36 +19262,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -21750,8 +19304,8 @@ PART
 {
 	part = nflv-fueltank-5-3_4288886754
 	partName = Part
-	persistentId = 850898949
-	pos = -6.45872164,33.7004395,-45.3455276
+	persistentId = 1024273303
+	pos = -6.4587121,33.7005157,-45.3458939
 	attPos = 0.000288963318,0.000378668308,0.000132799149
 	attPos0 = 6.46150827,0.88724041,3.73055434
 	rot = 0.353553176,0.612372816,-0.612372696,-0.353553236
@@ -21905,21 +19459,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -21939,7 +19478,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -21965,38 +19504,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -22055,8 +19562,8 @@ PART
 {
 	part = proceduralTankLiquid_4288829510
 	partName = Part
-	persistentId = 1675363561
-	pos = -3.21125793,35.5753479,-55.2223854
+	persistentId = 4129021808
+	pos = -3.21125746,35.5754242,-55.2228432
 	attPos = 0,0,0
 	attPos0 = 4.2264648E-07,2.25000095,4.29352849E-06
 	rot = -0.353553444,-0.612373054,-0.612372458,-0.353552788
@@ -22361,7 +19868,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -22441,21 +19948,6 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 	RESOURCE
 	{
 		name = LqdHydrogen
@@ -22472,8 +19964,8 @@ PART
 {
 	part = adapter-rad-125_4288818838
 	partName = Part
-	persistentId = 1252709796
-	pos = -3.2113018,35.5753937,-63.4139633
+	persistentId = 350067220
+	pos = -3.21129608,35.5754662,-63.4143982
 	attPos = 0,0,0
 	attPos0 = 3.26315762E-06,-9.1910429,7.76956256E-07
 	rot = -0.353553504,-0.612372875,-0.612372637,-0.353552908
@@ -22577,28 +20069,13 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = largeAdapter2_4288818784
 	partName = Part
-	persistentId = 1881081205
-	pos = -3.21140051,35.575264,-63.7977486
+	persistentId = 268962296
+	pos = -3.21140051,35.5753326,-63.7983055
 	attPos = 0,0,0
 	attPos0 = 7.5566993E-07,-0.382625908,-7.81699964E-06
 	rot = 0.353553355,0.612372816,0.612372696,0.353552878
@@ -22718,41 +20195,11 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
 		moduleID = SimpleRepaint
-		currentSubtype = black_porkjet
+		currentSubtype = SR_Original
 		EVENTS
 		{
 		}
@@ -22790,8 +20237,8 @@ PART
 {
 	part = adapter-rad-125_4287379174
 	partName = Part
-	persistentId = 3525022005
-	pos = -6.45890474,33.7003555,-43.0842819
+	persistentId = 3059269213
+	pos = -6.45888567,33.7004318,-43.0846863
 	attPos = 0,0,0
 	attPos0 = 1.35454104E-06,-1.97167325,1.2140973E-05
 	rot = -0.353553534,-0.612372756,-0.612372518,-0.353553116
@@ -22895,28 +20342,13 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = nflv-fueltank-5-3_4287372520
 	partName = Part
-	persistentId = 4214506197
-	pos = -6.45907736,33.7002945,-40.7713928
+	persistentId = 1529859144
+	pos = -6.45908117,33.7003708,-40.7718811
 	attPos = 0,0,0
 	attPos0 = -1.06637708E-06,2.31327486,-1.0402975E-05
 	rot = -0.353553206,-0.612372756,-0.612372756,-0.353553027
@@ -23066,21 +20498,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -23100,7 +20517,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -23126,38 +20543,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -23216,8 +20601,8 @@ PART
 {
 	part = hydrogen-5-2_4287372404
 	partName = Part
-	persistentId = 1504160745
-	pos = -6.4593339,33.700161,-36.9733658
+	persistentId = 2900391763
+	pos = -6.4593339,33.700222,-36.9738922
 	attPos = 5.45942498E-07,-1.89474654,-5.46966885E-06
 	attPos0 = 1.17269008E-06,5.69475651,-2.45346155E-06
 	rot = -0.683012724,-0.183013186,-0.183013245,-0.683012724
@@ -23318,21 +20703,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -23352,7 +20722,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = True
 		BoiloffOccuring = False
@@ -23453,11 +20823,11 @@ PART
 {
 	part = nflv-fueltank-5-2_4287372260
 	partName = Part
-	persistentId = 2961085954
-	pos = -6.4595437,33.7000122,-31.3737221
+	persistentId = 336270282
+	pos = -6.45955133,33.7000694,-31.3742542
 	attPos = 1.50456844E-06,-1.89498138,6.51284779E-07
 	attPos0 = -4.11192332E-06,7.49499846,-6.02538075E-10
-	rot = 0.612372637,-0.353553325,0.353553325,-0.612372994
+	rot = 0.612372577,-0.353553385,0.353553385,-0.612372935
 	attRot = 0,0,-0.99999994,0
 	attRot0 = -0.707106709,-1.88962055E-08,-0.707106888,1.33616318E-08
 	mir = 1,1,1
@@ -23605,21 +20975,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -23639,7 +20994,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -23665,38 +21020,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -23755,11 +21078,11 @@ PART
 {
 	part = nflv-nflv-fueltank-adapter-5-375-4_4287372144
 	partName = Part
-	persistentId = 845463068
-	pos = -6.45993376,33.6997986,-27.7741947
+	persistentId = 1465870407
+	pos = -6.45991087,33.6998749,-27.7747765
 	attPos = -1.94743302E-06,0.267590284,-8.16204079E-07
 	attPos0 = 7.03684666E-09,-3.86761498,-2.27926016E-08
-	rot = 0.612372637,-0.353553325,0.353553325,-0.612372994
+	rot = 0.612372577,-0.353553385,0.353553385,-0.612372935
 	attRot = 0,0,-0.99999994,0
 	attRot0 = 8.88178314E-16,0,-8.88178314E-16,1
 	mir = 1,1,1
@@ -23891,21 +21214,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1.06000006
@@ -23931,11 +21239,11 @@ PART
 {
 	part = nflv-fueltank-5-1_4287372072
 	partName = Part
-	persistentId = 2292654214
-	pos = -6.46031237,33.6995888,-19.8101559
+	persistentId = 2767989379
+	pos = -6.46032763,33.6996651,-19.8107777
 	attPos = 2.20795437E-06,-1.84499073,-8.39804841E-07
 	attPos0 = 1.16441697E-06,-7.96321774,1.77610571E-06
-	rot = -0.683012724,-0.183013245,-0.183013186,-0.683012724
+	rot = -0.683012843,-0.183013186,-0.183013126,-0.683012843
 	attRot = 0,-0.707106769,0,0.707106769
 	attRot0 = 0.707106709,1.88962073E-08,0.707106888,1.33616318E-08
 	mir = 1,1,1
@@ -24082,21 +21390,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -24116,7 +21409,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -24142,38 +21435,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -24232,11 +21493,11 @@ PART
 {
 	part = hydrogen-5-2_4287371948
 	partName = Part
-	persistentId = 3515306604
-	pos = -6.4605031,33.6994896,-10.8098154
+	persistentId = 4053259095
+	pos = -6.46048784,33.6995659,-10.8104239
 	attPos = 2.05111996E-06,-2.60097122,-6.98956228E-07
 	attPos0 = 3.21132052E-06,11.6010237,-2.92183472E-07
-	rot = -0.353553355,-0.612372756,-0.612372875,-0.353553295
+	rot = -0.353553504,-0.612372637,-0.612372875,-0.353553385
 	attRot = 0,0,0,1
 	attRot0 = 8.63759553E-09,0.707106709,1.95673255E-09,0.707106829
 	mir = 1,1,1
@@ -24334,21 +21595,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -24368,7 +21614,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -24469,11 +21715,11 @@ PART
 {
 	part = nflv-fueltank-5-3_4287371804
 	partName = Part
-	persistentId = 2431411905
-	pos = -6.46065283,33.6993828,-7.60978699
+	persistentId = 4096732522
+	pos = -6.46065855,33.6994591,-7.61042023
 	attPos = 3.04289233E-06,-2.60724163,-2.68998497E-06
 	attPos0 = -1.43454167E-06,5.80728579,6.07789161E-06
-	rot = -0.353553355,-0.612372756,-0.612372875,-0.353553295
+	rot = -0.353553504,-0.612372637,-0.612372875,-0.353553385
 	attRot = 0,0,0,1
 	attRot0 = 0,0,4.44088998E-16,1
 	mir = 1,1,1
@@ -24620,21 +21866,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -24654,7 +21885,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -24680,38 +21911,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -24770,11 +21969,11 @@ PART
 {
 	part = nflv-fueltank-5-4_4287371688
 	partName = Part
-	persistentId = 407117085
-	pos = -6.46103716,33.6990547,-4.79704857
+	persistentId = 1373740826
+	pos = -6.46102381,33.6991348,-4.79771042
 	attPos = 0,0,0
 	attPos0 = -2.28184967E-06,2.81254077,4.03348895E-06
-	rot = -0.353553355,-0.612372756,-0.612372875,-0.353553295
+	rot = -0.353553504,-0.612372637,-0.612372875,-0.353553385
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
 	mir = 1,1,1
@@ -24924,21 +22123,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -24958,7 +22142,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -24984,38 +22168,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -25074,11 +22226,11 @@ PART
 {
 	part = nflv-nflv-fueltank-adapter-5-375-4_4287371572
 	partName = Part
-	persistentId = 1677716227
-	pos = -6.46146536,33.6988335,-3.77550459
+	persistentId = 4263633151
+	pos = -6.46146345,33.6989136,-3.77622509
 	attPos = 0,0,0
 	attPos0 = -2.66474217E-07,1.02154779,3.6734491E-08
-	rot = -0.353553355,-0.612372756,-0.612372875,-0.353553295
+	rot = -0.353553504,-0.612372637,-0.612372875,-0.353553385
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
 	mir = 1,1,1
@@ -25210,21 +22362,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1
@@ -25250,11 +22387,11 @@ PART
 {
 	part = restock-adapter-1875-25-1_4287371500
 	partName = Part
-	persistentId = 3055823572
-	pos = -6.46189165,33.6985359,-3.60333967
+	persistentId = 911026634
+	pos = -6.46187067,33.698616,-3.60410595
 	attPos = 0,0,0
 	attPos0 = -2.02960337E-07,0.172199011,-7.41874828E-08
-	rot = -0.683012724,-0.183013245,-0.183013186,-0.683012724
+	rot = -0.683012843,-0.183013186,-0.183013126,-0.683012843
 	attRot = 0,-0.707106769,0,0.707106769
 	attRot0 = -8.63755556E-09,-0.707106709,-1.95677918E-09,0.707106888
 	mir = 1,1,1
@@ -25370,36 +22507,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -25442,8 +22549,8 @@ PART
 {
 	part = truss-circular-docking-01_4290720024
 	partName = Part
-	persistentId = 621383220
-	pos = 0.00318946084,37.4311943,-47.201828
+	persistentId = 3744357987
+	pos = 0.00318945874,37.4312706,-47.2021217
 	attPos = 0,0,0
 	attPos0 = 0.107324719,45.2271843,-28.5246487
 	rot = 0.270598173,0.653281391,0.653281748,0.270597994
@@ -25648,61 +22755,16 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = DPSoundFX
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = RSE_Coupler
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = nflv-fueltank-adapter-5-375-1_4289414076
 	partName = Part
-	persistentId = 2376764112
-	pos = 0.00318878097,37.4312019,-51.2328033
+	persistentId = 719368895
+	pos = 0.00318877934,37.4312782,-51.2332115
 	attPos = 9.30571105E-08,1.22999978,4.76837158E-07
 	attPos0 = -9.50290314E-07,-4.03000116,-4.76837158E-07
-	rot = 0.70710665,4.70405865E-08,-1.21546762E-07,-0.707107127
+	rot = 0.70710665,4.70406576E-08,-1.21546691E-07,-0.707107127
 	attRot = 0.99999994,0,0,0
 	attRot0 = 0.382683396,-1.49011612E-07,0.923879623,8.94069672E-08
 	mir = 1,1,1
@@ -25883,21 +22945,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -25917,7 +22964,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -25943,38 +22990,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -26033,11 +23048,11 @@ PART
 {
 	part = nflv-decoupler-75-1_4289398968
 	partName = Part
-	persistentId = 1922140333
-	pos = 0.00319392933,37.4312096,-54.6342812
+	persistentId = 3278969187
+	pos = 0.00319392723,37.4312859,-54.6347923
 	attPos = 3.62548349E-07,-0.576997757,1.42964524E-07
 	attPos0 = 1.67111409E-07,3.977005,3.22261002E-07
-	rot = 0.707107127,1.58799452E-07,9.78796066E-09,0.70710665
+	rot = 0.707107127,1.58799423E-07,9.78799619E-09,0.70710665
 	attRot = 0,0,0,1
 	attRot0 = -1,1.14048477E-08,0,2.75337655E-08
 	mir = 1,1,1
@@ -26216,51 +23231,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = RSE_Coupler
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1.0333333
@@ -26286,11 +23256,11 @@ PART
 {
 	part = nflv-fueltank-adapter-5-375-1_4288991260
 	partName = Part
-	persistentId = 3587893851
-	pos = 0.00319530373,37.4312477,-57.7897949
+	persistentId = 2238590629
+	pos = 0.0031953007,37.431324,-57.7904091
 	attPos = 2.54978147E-07,0.476494074,-3.01444788E-06
 	attPos0 = 4.90220771E-07,-3.0525043,-4.21135428E-06
-	rot = 0.70710665,4.70405865E-08,-1.21546762E-07,-0.707107127
+	rot = 0.70710665,4.70406576E-08,-1.21546691E-07,-0.707107127
 	attRot = 0.99999994,0,0,0
 	attRot0 = 1,-1.14048477E-08,0,2.75337655E-08
 	mir = 1,1,1
@@ -26310,6 +23280,8 @@ PART
 	modSize = 0,0,0
 	link = nflv-decoupler-5-1_4289011316
 	link = sspx-lab-pallet-1_4290589706
+	link = launchClamp1_4293506768
+	link = launchClamp1_4293497908
 	attN = top,nflv-decoupler-5-1_4289011316_0|2.90314984|0_0|1|0_0|2.90314984|0_0|1|0
 	attN = bottom,nflv-decoupler-75-1_4289398968_0|-2.90625|0_0|-1|0_0|-2.90625|0_0|-1|0
 	attN = top2,Null_0_0|2.74814987|0_0|-1|0_0|2.74814987|0_0|-1|0
@@ -26472,21 +23444,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -26506,7 +23463,7 @@ PART
 	{
 		name = ModuleCryoTank
 		isEnabled = True
-		LastUpdateTime = 2782729498.2299414
+		LastUpdateTime = 1357.6799999990553
 		CoolingAllowed = True
 		CoolingEnabled = False
 		BoiloffOccuring = False
@@ -26532,38 +23489,6 @@ PART
 				actionGroup = None
 				wasActiveBeforePartWasAdjusted = False
 			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleB9PartSwitch
-		isEnabled = True
-		stagingEnabled = True
-		moduleID = FreeIvaSwitch
-		currentSubtype = Blocked
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
 		}
 		UPGRADESAPPLIED
 		{
@@ -26622,11 +23547,11 @@ PART
 {
 	part = nflv-decoupler-5-1_4289011316
 	partName = Part
-	persistentId = 2661125752
-	pos = 0.0032024947,37.4312782,-60.392395
+	persistentId = 180188006
+	pos = 0.00320249097,37.4313545,-60.3932152
 	attPos = 1.548726E-06,-0.439489365,4.39181804E-06
 	attPos0 = 3.16105599E-07,3.03950882,3.27068869E-06
-	rot = 0.707107127,1.58799452E-07,9.78796066E-09,0.70710665
+	rot = 0.707107127,1.58799423E-07,9.78799619E-09,0.70710665
 	attRot = 0,0,0,1
 	attRot0 = -1,1.14048477E-08,0,2.75337655E-08
 	mir = 1,1,1
@@ -26825,51 +23750,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = RSE_Coupler
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1.20000005
@@ -26895,11 +23775,11 @@ PART
 {
 	part = nflv-nflv-fueltank-adapter-5-375-4_4288902994
 	partName = Part
-	persistentId = 1740052558
-	pos = 0.00322914077,37.4313774,-60.7318001
+	persistentId = 3787522195
+	pos = 0.00322913891,37.4314537,-60.7328072
 	attPos = 0,0,0
 	attPos0 = 9.79948254E-07,-0.31400606,-4.48229093E-06
-	rot = -1.36447653E-07,0.707107127,-0.70710665,3.21397664E-08
+	rot = -1.36447667E-07,0.707107127,-0.70710665,3.21397557E-08
 	attRot = 0,0,-0.99999994,0
 	attRot0 = 1.33226746E-14,-2.75337619E-08,-1,-1.14048513E-08
 	mir = 1,1,1
@@ -27029,21 +23909,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1.14999998
@@ -27069,11 +23934,11 @@ PART
 {
 	part = fft-fueltank-pulseunits-5-2_4289024204
 	partName = Part
-	persistentId = 2809539112
-	pos = 0.00323663536,37.4314079,-61.5331726
+	persistentId = 3547619424
+	pos = 0.00323663349,37.4314842,-61.5342903
 	attPos = -2.39805354E-06,-1.09103703,-5.37490587E-06
 	attPos0 = 8.32571558E-08,1.89105916,-3.33400885E-06
-	rot = 0.707107127,1.58799452E-07,9.78796066E-09,0.70710665
+	rot = 0.707107127,1.58799423E-07,9.78799619E-09,0.70710665
 	attRot = 0,0,0,1
 	attRot0 = -1.33226746E-14,2.75337619E-08,1,-1.14048513E-08
 	mir = 1,1,1
@@ -27150,21 +24015,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 0.949999988
@@ -27201,11 +24051,11 @@ PART
 {
 	part = fft-fueltank-targets-5-1_4288875526
 	partName = Part
-	persistentId = 721025802
-	pos = 0.0032363655,37.4314079,-63.1331863
+	persistentId = 3524447928
+	pos = 0.00323636411,37.4314842,-63.134304
 	attPos = 8.47385309E-07,1.12554622,-2.95702398E-06
 	attPos0 = 1.03670391E-06,-2.72556043,-3.59464525E-06
-	rot = 0.707107127,1.58799452E-07,9.78796066E-09,0.70710665
+	rot = 0.707107127,1.58799423E-07,9.78799619E-09,0.70710665
 	attRot = 0,0,0,1
 	attRot0 = 0,0,3.66823375E-22,1
 	mir = 1,1,1
@@ -27283,21 +24133,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1
@@ -27334,11 +24169,11 @@ PART
 {
 	part = nflv-docking-5-1_4289144654
 	partName = Part
-	persistentId = 3775433175
-	pos = 0.00323614106,37.4314232,-64.4662628
+	persistentId = 1583338977
+	pos = 0.00323613896,37.4314995,-64.467392
 	attPos = 0,0,0
 	attPos0 = -6.33545937E-07,-1.3330121,-6.31461307E-06
-	rot = 0.70710665,4.70405865E-08,-1.21546762E-07,-0.707107127
+	rot = 0.70710665,4.70406576E-08,-1.21546691E-07,-0.707107127
 	attRot = 0.99999994,0,0,0
 	attRot0 = 1,-1.14048477E-08,-1.01000288E-29,2.75337655E-08
 	mir = 1,1,1
@@ -27569,81 +24404,6 @@ PART
 	}
 	MODULE
 	{
-		name = DPSoundFX
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = RSE_Coupler
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1
@@ -27669,11 +24429,11 @@ PART
 {
 	part = truss-circular-adapter-02_4289141128
 	partName = Part
-	persistentId = 497872148
-	pos = 0.00323995575,37.4314232,-64.4662857
+	persistentId = 472876542
+	pos = 0.00323995412,37.4314995,-64.4674149
 	attPos = 1.35843163E-06,-0.298991948,3.94887957E-06
 	attPos0 = 1.2163265E-06,0.299014837,4.26596853E-06
-	rot = 0.70710665,4.70405865E-08,-1.21546762E-07,-0.707107127
+	rot = 0.70710665,4.70406576E-08,-1.21546691E-07,-0.707107127
 	attRot = 0.99999994,0,0,0
 	attRot0 = 0,0,0,1
 	mir = 1,1,1
@@ -27772,31 +24532,16 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = SpinDriveCluster_4289134048
 	partName = Part
-	persistentId = 850229375
-	pos = 0.00323993061,37.4314384,-64.6133041
-	attPos = 9.46732598E-07,-0.57036978,6.97854375E-06
+	persistentId = 3487359816
+	pos = 0.00323995342,37.4314995,-64.6938782
+	attPos = -1.53565475E-06,-0.490940154,-4.19356184E-06
 	attPos0 = 1.55975249E-06,0.717403471,4.04497132E-06
-	rot = 0.707107127,1.58799452E-07,9.78796066E-09,0.70710665
+	rot = 0.707107127,1.58799423E-07,9.78799619E-09,0.70710665
 	attRot = 0,0,0,1
 	attRot0 = -1,1.14048477E-08,5.29395529E-23,2.75337655E-08
 	mir = 1,1,1
@@ -27806,7 +24551,7 @@ PART
 	istg = 0
 	resPri = 0
 	dstg = 4
-	sidx = 0
+	sidx = 3
 	sqor = 0
 	sepI = 0
 	attm = 0
@@ -28054,56 +24799,7 @@ PART
 	}
 	MODULE
 	{
-		name = PersistentEngine
-		isEnabled = True
-		HasPersistentThrust = True
-		HasPersistentHeadingEnabled = True
-		MaximizePersistentIsp = False
-		MaximizePersistentPower = True
-		maneuverToleranceInDegree = 90
-		persistentAutopilotMode = StabilityAssist
-		persistentThrust = 0
-		persistentIsp = 0
-		persistentThrottle = 0
-		persistentAverageDensity = 0
-		vesselAlignmentWithAutopilotMode = 0
-		persistentResourceChange = 
-		vesselDryMass = 0
-		persistentVesselTargetId = 00000000-0000-0000-0000-000000000000
-		persistentVesselTargetBodyName = 
-		persistentManeuverPatch = 
-		persistentManeuverNextPatch = 
-		persistentManeuverUT = 0
-		defaultsLoaded = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleWaterfallFX
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
 		EVENTS
@@ -28160,11 +24856,11 @@ PART
 {
 	part = proceduralStructural_4290700028
 	partName = Part
-	persistentId = 2184508341
-	pos = 0.00327509735,5.95241928,-63.6230125
+	persistentId = 1362673686
+	pos = 0.00326937484,5.95241547,-63.6241608
 	attPos = 0.628039241,0.684457302,29.1338692
 	attPos0 = -0.628100872,-1.17420912,2.34437776
-	rot = 3.27825546E-07,2.63417775E-07,-5.26835251E-08,1.00000012
+	rot = 8.94069672E-07,3.68784953E-07,3.47711506E-07,1.00000024
 	attRot = 0,0,-0.999999881,0
 	attRot0 = -0.707106888,-4.08081235E-07,-4.17247321E-07,0.707106709
 	mir = 1,1,1
@@ -28513,31 +25209,16 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = proceduralStructural_4290699938
 	partName = Part
-	persistentId = 3736553364
-	pos = 0.00344494847,34.1659889,-60.2243385
+	persistentId = 892102607
+	pos = 0.00344733219,34.1661034,-60.2254601
 	attPos = 0.000315274199,2.17962265,3.1486249
 	attPos0 = -9.33861738E-05,26.033247,0.2500076
-	rot = 1.54964539E-07,0.707107127,-0.70710665,-1.40063406E-07
+	rot = 9.17444183E-08,0.707107127,-0.70710665,-7.68429729E-08
 	attRot = 0.707106769,0,0,0.707106769
 	attRot0 = 4.74888751E-08,0.707106709,-0.707106829,1.25533333E-07
 	mir = 1,1,1
@@ -28885,31 +25566,16 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = proceduralStructural_4290699848
 	partName = Part
-	persistentId = 415363049
-	pos = 0.00232399325,5.49007988,-56.8468323
+	persistentId = 2137138289
+	pos = 0.00233543688,5.49000168,-56.8479805
 	attPos = 0.00129642652,-0.0401341915,28.4242096
 	attPos0 = -7.52385604E-05,-3.33724761,0.251060516
-	rot = -1.00000024,4.53078627E-07,5.2683589E-08,0
+	rot = -1.00000048,7.90253353E-07,4.32005322E-07,-5.96046448E-08
 	attRot = 0.707106709,0,0,-0.707106709
 	attRot0 = 8.7423814E-08,-0.707106829,-0.707106709,-5.18297831E-08
 	mir = 1,1,1
@@ -29257,31 +25923,16 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = proceduralStructural_4290699758
 	partName = Part
-	persistentId = 150877331
-	pos = 0.0022127491,33.1163254,-53.447525
+	persistentId = 2614712586
+	pos = 0.00221465621,33.1164551,-53.4486122
 	attPos = 7.47807135E-05,-4.60615921,-3.14739323
 	attPos0 = -8.98798244E-05,-23.0195198,-0.251986146
-	rot = 1.40063278E-07,0.707107127,-0.70710665,-1.54964667E-07
+	rot = -7.45052908E-09,0.707107246,-0.707106769,-7.45050865E-09
 	attRot = 0,-0.707106709,-0.707106709,0
 	attRot0 = -5.73514292E-10,0.707106829,0.707106709,1.14201008E-07
 	mir = 1,1,1
@@ -29629,31 +26280,16 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = proceduralStructural_4290699668
 	partName = Part
-	persistentId = 2851379132
-	pos = 0.00224455632,5,-50.047699
+	persistentId = 1543032418
+	pos = 0.00225218525,4.99991608,-50.0487976
 	attPos = 0.000100208345,-0.062343359,27.8647728
 	attPos0 = -7.52385604E-05,-3.33724761,0.251060516
-	rot = -1.00000012,4.3200518E-07,3.6878501E-07,0
+	rot = -1.00000048,5.79519167E-07,6.00592728E-07,2.38418579E-07
 	attRot = 0.707106709,0,0,-0.707106709
 	attRot0 = 8.7423814E-08,-0.707106829,-0.707106709,-5.18297831E-08
 	mir = 1,1,1
@@ -30000,31 +26636,16 @@ PART
 		{
 		}
 	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
 }
 PART
 {
 	part = strl-rad-flatb-quad01_4290699422
 	partName = Part
-	persistentId = 2269364566
-	pos = 0.00317599042,13.6613159,-63.4243584
+	persistentId = 1233789599
+	pos = 0.00315882405,13.6613846,-63.4254837
 	attPos = -4.63553588E-05,-1.83864498,-0.0525669456
 	attPos0 = -1.79440322E-05,9.54716301,0.251197785
-	rot = 2.38418579E-07,0.707107425,4.17232513E-07,0.70710659
+	rot = -2.98023224E-08,0.707107306,5.96046448E-07,0.70710659
 	attRot = 0,0,0,1
 	attRot0 = -5.19872785E-08,0.707106829,-6.76701504E-08,0.707106888
 	mir = 1,1,1
@@ -30186,21 +26807,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -30241,11 +26847,11 @@ PART
 {
 	part = sspx-lab-pallet-1_4290551830
 	partName = Part
-	persistentId = 141657241
-	pos = 0.00319876336,37.6312599,-60.1925735
+	persistentId = 269376796
+	pos = 0.00319874822,37.6313362,-60.1933937
 	attPos = -7.61356023E-06,0.561314464,-6.29743528
 	attPos0 = 4.60426645E-06,-0.361492991,6.09745312
-	rot = 0.707107544,-0.707106292,-4.76837158E-07,-8.64267349E-07
+	rot = 0.70710814,-0.707105637,-7.15255737E-07,-1.57952309E-06
 	attRot = 0.707106769,5.11473854E-06,5.79931657E-06,0.707107127
 	attRot0 = 0.499999821,-0.500000358,0.50000006,0.499999881
 	mir = 1,1,1
@@ -30343,21 +26949,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -30400,11 +26991,11 @@ PART
 {
 	part = sspx-lab-pallet-1_4290589706
 	partName = Part
-	persistentId = 282182936
-	pos = 0.00320298295,36.4312439,-53.3898888
+	persistentId = 870452895
+	pos = 0.00320310192,36.4313202,-53.3904839
 	attPos = -1.10268581E-06,-2.18331242,3.71367431
 	attPos0 = -1.17512712E-07,-2.21653605,-4.71367407
-	rot = 3.87430191E-07,9.53674316E-07,-0.70710814,0.707105517
+	rot = 4.47034836E-07,9.23871994E-07,-0.707108021,0.707105637
 	attRot = 0.704748154,-0.0577079542,-0.0577089004,0.704748034
 	attRot0 = -0.499999702,-0.500000417,0.500000417,-0.499999613
 	mir = 1,1,1
@@ -30502,21 +27093,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -30559,8 +27135,8 @@ PART
 {
 	part = ht2.moduleUnity_4290146316
 	partName = Part
-	persistentId = 1247405924
-	pos = -1.11265373,35.2310905,-2.89712667
+	persistentId = 3203328970
+	pos = -1.11265373,35.2311668,-2.89712811
 	attPos = 0,0,0
 	attPos0 = 8.34465027E-07,1.11266387,8.75395756E-07
 	rot = 0.500000119,0.50000006,-0.499999911,0.5
@@ -30788,51 +27364,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -30909,8 +27440,8 @@ PART
 {
 	part = ht2.moduleUnity_4290113936
 	partName = Part
-	persistentId = 457741069
-	pos = 1.11445546,35.2310944,-2.89712715
+	persistentId = 4046911794
+	pos = 1.11445618,35.2311707,-2.89713001
 	attPos = 0,0,0
 	attPos0 = -8.34465027E-07,-1.11444032,-6.38374786E-07
 	rot = -0.499999702,0.500000298,-0.50000006,-0.500000238
@@ -31138,51 +27669,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -31259,8 +27745,8 @@ PART
 {
 	part = ht2.bipod.strut_4289588270
 	partName = CompoundPart
-	persistentId = 2074361177
-	pos = 0.00320507609,32.4311104,-42.0577812
+	persistentId = 2427053014
+	pos = 0.00320793712,32.4311867,-42.0580788
 	attPos = 5.24341067E-06,-0.026340723,0.00891113281
 	attPos0 = -9.82891493E-07,-2.37360907,4.9911027
 	rot = 0.499999225,0.500000656,-0.499999821,-0.500000477
@@ -31347,10 +27833,10 @@ PART
 	PARTDATA
 	{
 		tgt = 4290699668
-		tpersID = 2851379132
-		pos = -12.7773972,7.73645973,-0.00253868126
-		rot = -5.85458722E-08,9.04666209E-08,0.707112312,-0.707113504
-		dir = -0.855417848,0.517938495,-0.000169958977
+		tpersID = 1543032418
+		pos = -12.7774382,7.73652172,-0.00252628396
+		rot = -4.86330158E-08,1.00379793E-07,0.707113802,-0.707114995
+		dir = -0.855416715,0.517940283,-0.000169128238
 		col = collisionMesh
 	}
 	MODULE
@@ -31390,21 +27876,6 @@ PART
 	MODULE
 	{
 		name = ModuleRestockLinkedMesh
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
 		EVENTS
@@ -31461,8 +27932,8 @@ PART
 {
 	part = HighGainAntenna5.v2_4290782466
 	partName = Part
-	persistentId = 130058933
-	pos = -0.834741592,37.913044,0.723672807
+	persistentId = 3217146391
+	pos = -0.834741592,37.9131203,0.723674357
 	attPos = 0,0,0
 	attPos0 = -0.834743619,1.1237427,-0.481941134
 	rot = -0.353553325,0.612372637,0.612372279,-0.353553504
@@ -31545,7 +28016,7 @@ PART
 		name = ModuleDeployableAntenna
 		isEnabled = True
 		currentRotation = (0, -0.707106829, 0, 0.707106709)
-		storedAnimationTime = 0
+		storedAnimationTime = 1
 		storedAnimationSpeed = 0
 		deployState = EXTENDED
 		stagingEnabled = True
@@ -31633,21 +28104,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1
@@ -31692,11 +28148,11 @@ PART
 {
 	part = domeLight1_4290693440
 	partName = Part
-	persistentId = 3881068514
-	pos = -8.94849014,33.6990318,-3.99714994
+	persistentId = 3471587058
+	pos = -8.94847679,33.6990891,-3.99784756
 	attPos = -0.00181984901,-0.0217857361,0.00314307213
 	attPos0 = 1.24550533,0.821742535,-2.15729284
-	rot = 0.5,0.499999821,0.500000775,0.500000119
+	rot = 0.49999994,0.499999702,0.500000656,0.50000006
 	attRot = 0,0,0,1
 	attRot0 = 4.07157899E-07,0.258818984,-1.27143963E-07,-0.965925813
 	mir = 1,1,1
@@ -31926,21 +28382,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -31998,11 +28439,11 @@ PART
 {
 	part = domeLight1_4290689400
 	partName = Part
-	persistentId = 3497730306
-	pos = 8.94841862,33.6988525,-3.99659443
+	persistentId = 2023792487
+	pos = 8.94846058,33.6989212,-3.99710846
 	attPos = 0.00895535946,0.177574158,0.0154738426
 	attPos0 = -1.24912751,0.622424603,-2.16356468
-	rot = -0.499999821,0.499999315,0.500000834,-0.500000775
+	rot = -0.499999821,0.499999285,0.500000834,-0.500000775
 	attRot = 0,0,0,1
 	attRot0 = 1.00100328E-06,-0.258819103,1.18263841E-07,-0.965925872
 	mir = 1,1,1
@@ -32232,21 +28673,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -32304,8 +28730,8 @@ PART
 {
 	part = domeLight1_4290685216
 	partName = Part
-	persistentId = 4013487103
-	pos = -8.94777966,33.7004051,-46.9458122
+	persistentId = 602783077
+	pos = -8.94776058,33.7004814,-46.9462204
 	attPos = 0.000492811203,-0.129924774,0.000849723816
 	attPos0 = 1.24401104,1.72996926,2.15470576
 	rot = 0.50000006,-0.499999434,0.500000477,-0.500000298
@@ -32514,21 +28940,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -32586,8 +28997,8 @@ PART
 {
 	part = domeLight1_4290681166
 	partName = Part
-	persistentId = 3152677307
-	pos = 8.95401859,33.7002373,-46.9457855
+	persistentId = 1206572843
+	pos = 8.95403767,33.7003136,-46.9460907
 	attPos = -0.000553250313,-0.0679893494,0.00100421906
 	attPos0 = -1.24374735,1.66806436,2.15425324
 	rot = -0.499999851,-0.499999702,0.500000656,0.500000119
@@ -32796,21 +29207,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -32868,11 +29264,11 @@ PART
 {
 	part = spotLight1.v2_4290666840
 	partName = Part
-	persistentId = 3735615667
-	pos = 0.00317712058,41.8313255,-41.5887985
+	persistentId = 4213876675
+	pos = 0.00317235221,41.8314018,-41.5890846
 	attPos = 5.72774616E-06,-0.040481627,0.0621414185
 	attPos0 = -6.73013176E-07,0.240438074,-4.46215725
-	rot = -9.57548536E-07,-0.993259072,0.115917802,1.71619172E-06
+	rot = -8.94328195E-07,-0.993259072,0.115917921,1.73726517E-06
 	attRot = 0,0,-0.999999881,0
 	attRot0 = 2.82331296E-08,-0.620373964,0.784306228,2.98023046E-08
 	mir = 1,1,1
@@ -33102,36 +29498,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleWaterfallFX
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -33189,8 +29555,8 @@ PART
 {
 	part = ht2.rcs.3_4289143240
 	partName = Part
-	persistentId = 1345376019
-	pos = -1.01289248,36.4182205,-2.26472497
+	persistentId = 3417747311
+	pos = -1.01289248,36.4182968,-2.26472783
 	attPos = -0.0246677399,0.0525417328,-0.0246658325
 	attPos0 = 1.03756046,-2.08500862,1.03756011
 	rot = 2.5331974E-07,1.78813934E-07,-0.923879623,-0.382683635
@@ -33323,21 +29689,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -33380,11 +29731,11 @@ PART
 {
 	part = ht2.rcs.3_4289142226
 	partName = Part
-	persistentId = 3933931013
-	pos = -1.0128932,38.4440117,-2.26472092
+	persistentId = 3526380769
+	pos = -1.0128932,38.444088,-2.26472378
 	attPos = -0.0246667862,0.0525422096,0.0246658325
 	attPos0 = 1.03756106,-2.08500791,-1.03756011
-	rot = -2.98023224E-07,-1.49011612E-07,0.382683277,0.923879743
+	rot = -5.36441803E-07,-5.21540642E-07,0.382683218,0.923879743
 	attRot = 0,0,0,1
 	attRot0 = -0.270597935,-0.653281748,0.653281271,-0.270597994
 	mir = 1,1,1
@@ -33514,21 +29865,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -33571,8 +29907,8 @@ PART
 {
 	part = ht2.rcs.3_4289142126
 	partName = Part
-	persistentId = 30164848
-	pos = 1.01290488,38.4440117,-2.26471901
+	persistentId = 895195195
+	pos = 1.01290488,38.444088,-2.26472187
 	attPos = 0.0246679783,0.0525417328,0.0246658325
 	attPos0 = -1.03756046,-2.08500791,-1.03756082
 	rot = 1.49011612E-07,-2.98023224E-07,-0.382683665,0.923879623
@@ -33705,21 +30041,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -33762,8 +30083,8 @@ PART
 {
 	part = ht2.rcs.3_4289142026
 	partName = Part
-	persistentId = 4060950613
-	pos = 1.01290524,36.4182205,-2.26472139
+	persistentId = 4176544049
+	pos = 1.01290524,36.4182968,-2.26472425
 	attPos = 0.0246659517,0.0525417328,-0.0246658325
 	attPos0 = -1.03756094,-2.08500862,1.03755939
 	rot = -1.93715096E-07,0,-0.923879802,0.382683039
@@ -33896,21 +30217,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -33953,11 +30259,11 @@ PART
 {
 	part = ht2.rcs.3_4289141170
 	partName = Part
-	persistentId = 1789831177
-	pos = -1.33783317,38.7721519,-35.419693
+	persistentId = 3492760026
+	pos = -1.33783317,38.7722282,-35.4197998
 	attPos = -0.0530742407,-0.258190155,0.0530700684
 	attPos0 = -1.28793001,1.9056356,1.28792834
-	rot = -0.382683992,0.923879385,-2.98023224E-08,-8.34465027E-07
+	rot = -0.382684112,0.923879325,-4.76837158E-07,-1.05798244E-06
 	attRot = 0,0.999999881,0,0
 	attRot0 = 0.270598292,-0.653281569,-0.65328151,-0.270597816
 	mir = 1,1,1
@@ -34087,21 +30393,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -34144,8 +30435,8 @@ PART
 {
 	part = ht2.rcs.3_4289140914
 	partName = Part
-	persistentId = 1721435516
-	pos = 1.3441813,38.7721596,-35.4197159
+	persistentId = 1686441800
+	pos = 1.34417987,38.7722359,-35.4198227
 	attPos = 0.0530701876,-0.258167267,0.0530776978
 	attPos0 = 1.28792894,1.9056356,1.28792524
 	rot = 0.382683456,0.923879862,-1.49011612E-07,1.04308128E-07
@@ -34278,21 +30569,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -34335,8 +30611,8 @@ PART
 {
 	part = ht2.rcs.3_4289140818
 	partName = Part
-	persistentId = 1330352145
-	pos = 1.34419668,36.0901566,-35.4197159
+	persistentId = 2327065908
+	pos = 1.34419668,36.0902328,-35.4198227
 	attPos = 0.0530757904,-0.258167267,-0.0530700684
 	attPos0 = 1.28792989,1.9056356,-1.28793216
 	rot = 0.923879862,0.382683575,4.02331352E-07,3.87430191E-07
@@ -34469,21 +30745,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -34526,11 +30787,11 @@ PART
 {
 	part = ht2.rcs.3_4289140722
 	partName = Part
-	persistentId = 2766981841
-	pos = -1.33782077,36.0901489,-35.4197159
+	persistentId = 4243616203
+	pos = -1.3378222,36.0902252,-35.4198227
 	attPos = -0.0530700684,-0.258167267,-0.0530776978
 	attPos0 = -1.28792918,1.9056356,-1.28792906
-	rot = 0.923879862,-0.382683337,-2.98023224E-07,5.36441803E-07
+	rot = 0.923879862,-0.382683337,-2.38418579E-07,2.68220901E-07
 	attRot = 0,0,0,1
 	attRot0 = -0.653281868,0.270598114,0.270598084,0.653281152
 	mir = 1,1,1
@@ -34660,21 +30921,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartSwitch
 		isEnabled = True
 		stagingEnabled = True
@@ -34717,11 +30963,11 @@ PART
 {
 	part = fft-rcs-arcjet-large-1_4289127620
 	partName = Part
-	persistentId = 2310594109
-	pos = -2.59717655,44.8960762,-5.39678288
+	persistentId = 2616582497
+	pos = -2.59721279,44.8962021,-5.39731026
 	attPos = 0.0663175583,-0.000133514404,-1.52587891E-05
 	attPos0 = -2.66632915,-0.59986639,-1.70478015E-05
-	rot = 8.94069672E-08,0.707107186,6.2584877E-07,0.707106709
+	rot = 1.49011612E-07,0.707107186,5.96046448E-07,0.707106709
 	attRot = 0,0,-0.707106769,0.707106769
 	attRot0 = -0.499999613,0.500000417,-0.5,0.50000006
 	mir = 1,1,1
@@ -34903,21 +31149,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -34975,11 +31206,11 @@ PART
 {
 	part = fft-rcs-arcjet-large-1_4289060684
 	partName = Part
-	persistentId = 2148180401
-	pos = 7.76794863,35.9506264,-5.396626
+	persistentId = 3168824889
+	pos = 7.76797152,35.9507065,-5.39714003
 	attPos = 0.066311121,-0.000129699707,-2.95639038E-05
 	attPos0 = -2.66633177,-0.599869251,-3.17200902E-05
-	rot = 0.612373769,0.353553712,-0.612372041,0.353552639
+	rot = 0.612373829,0.353553653,-0.6123721,0.353552669
 	attRot = 0,0,-0.707106769,0.707106769
 	attRot0 = -0.499999434,0.500000596,-0.499999881,0.500000119
 	mir = 1,1,1
@@ -35161,21 +31392,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -35233,11 +31449,11 @@ PART
 {
 	part = fft-rcs-arcjet-large-1_4289060388
 	partName = Part
-	persistentId = 1892576175
-	pos = -5.16103601,31.4473686,-5.39707279
+	persistentId = 3159609666
+	pos = -5.16101933,31.4474354,-5.39775705
 	attPos = 0.0663170815,-0.000133514404,-2.64644041E-05
 	attPos0 = -2.66633582,-0.599880219,-2.6344962E-05
-	rot = 0.612372875,-0.353553057,-0.612372875,-0.353553534
+	rot = 0.612372756,-0.353553176,-0.612372756,-0.353553385
 	attRot = 0,0,-0.707106769,0.707106769
 	attRot0 = -0.499999613,0.500000358,-0.5,0.50000006
 	mir = 1,1,1
@@ -35419,21 +31635,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -35491,11 +31692,11 @@ PART
 {
 	part = fft-rcs-arcjet-large-1_4289053840
 	partName = Part
-	persistentId = 2273410314
-	pos = 2.60286427,44.8960762,-5.39677525
+	persistentId = 841738211
+	pos = 2.60283375,44.896225,-5.39730263
 	attPos = -0.115144491,0.147323608,-1.45435333E-05
 	attPos0 = 2.7151432,-0.747323513,-1.15641742E-05
-	rot = -0.70710659,-7.15255737E-07,0.707107723,-5.96046448E-08
+	rot = -0.707106829,-6.55651093E-07,0.707107186,-5.96046448E-08
 	attRot = 0,0,-0.707106769,0.707106769
 	attRot0 = -0.500000119,0.49999994,0.500000298,-0.499999613
 	mir = 1,1,1
@@ -35677,21 +31878,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -35749,11 +31935,11 @@ PART
 {
 	part = fft-rcs-arcjet-large-1_4289045752
 	partName = Part
-	persistentId = 3103377317
-	pos = 5.167871,31.4472466,-5.39663363
+	persistentId = 1551995015
+	pos = 5.16787672,31.4473057,-5.39714575
 	attPos = -0.115149498,0.147323608,-2.67028809E-05
 	attPos0 = 2.71515179,-0.747321606,-2.52827886E-05
-	rot = -0.353553414,0.612372637,0.353553534,0.612372935
+	rot = -0.353553444,0.612372994,0.353553772,0.612372398
 	attRot = 0,0,-0.707106769,0.707106769
 	attRot0 = -0.500000179,0.499999821,0.500000596,-0.499999523
 	mir = 1,1,1
@@ -35935,21 +32121,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -36007,11 +32178,11 @@ PART
 {
 	part = fft-rcs-arcjet-large-1_4289045456
 	partName = Part
-	persistentId = 1114169812
-	pos = -7.76108503,35.9507599,-5.3970542
+	persistentId = 1939598866
+	pos = -7.76108313,35.9508438,-5.39770555
 	attPos = -0.115146399,0.147323608,-3.09943571E-05
 	attPos0 = 2.71514702,-0.747337341,-1.94308232E-05
-	rot = 0.353553116,0.612372518,-0.353553265,0.612373114
+	rot = 0.353552699,0.612372279,-0.353553414,0.61237365
 	attRot = 0,0,-0.707106769,0.707106769
 	attRot0 = -0.500000119,0.5,0.500000238,-0.499999583
 	mir = 1,1,1
@@ -36193,21 +32364,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -36265,11 +32421,11 @@ PART
 {
 	part = fft-rcs-arcjet-large-1_4289042084
 	partName = Part
-	persistentId = 1236409838
-	pos = 0.00313177239,47.4929161,-46.745533
+	persistentId = 1969887835
+	pos = 0.00313177239,47.4929924,-46.7458572
 	attPos = 1.88711385E-06,-0.235740781,-0.0703353882
 	attPos0 = -2.20031757E-06,1.6357801,2.67035651
-	rot = -0.5,0.499999851,-0.500000477,-0.5
+	rot = -0.500000477,0.499999672,-0.500000298,-0.500000238
 	attRot = 0,0,-0.707106769,0.707106769
 	attRot0 = -0.707106709,0.707106829,-3.76583046E-07,-4.70688008E-07
 	mir = 1,1,1
@@ -36451,21 +32607,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -36523,11 +32664,11 @@ PART
 {
 	part = fft-rcs-arcjet-large-1_4288966364
 	partName = Part
-	persistentId = 1978240905
-	pos = 8.71691704,32.4003029,-46.7455864
+	persistentId = 558877880
+	pos = 8.71691704,32.4003792,-46.7458725
 	attPos = -5.96045993E-07,-0.235721588,-0.0703189373
 	attPos0 = -4.4107428E-06,1.63580132,2.67037535
-	rot = 0.183012396,0.68301326,0.183012664,-0.683012724
+	rot = 0.183011293,0.683013797,0.183013231,-0.683012247
 	attRot = 0,0,-0.707106769,0.707106769
 	attRot0 = -0.707106769,0.707106769,-2.81467806E-07,-2.98023053E-07
 	mir = 1,1,1
@@ -36709,21 +32850,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -36781,11 +32907,11 @@ PART
 {
 	part = fft-rcs-arcjet-large-1_4288966068
 	partName = Part
-	persistentId = 2526434848
-	pos = -8.71041489,32.4004173,-46.7456245
+	persistentId = 2363967357
+	pos = -8.7104187,32.4005051,-46.7459869
 	attPos = -3.57627869E-07,-0.235721707,-0.0703206062
 	attPos0 = -3.21865127E-06,1.63580048,2.670367
-	rot = 0.683012664,0.183013186,0.683012903,-0.183013096
+	rot = 0.683012486,0.183013901,0.683012843,-0.183013439
 	attRot = 0,0,-0.707106769,0.707106769
 	attRot0 = -0.707106769,0.707106829,-3.34019376E-07,-4.17232314E-07
 	mir = 1,1,1
@@ -36967,21 +33093,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -37039,8 +33150,8 @@ PART
 {
 	part = fft-rcs-arcjet-large-1_4288956290
 	partName = Part
-	persistentId = 2928211134
-	pos = 0.00307690422,47.4939499,-27.9736519
+	persistentId = 157810280
+	pos = 0.00306927459,47.4940453,-27.9740982
 	attPos = -1.01995124E-06,-0.438989401,0.0557494164
 	attPos0 = 1.70050271E-06,-2.96097589,-2.65576601
 	rot = -0.499999523,-0.5,0.500000477,-0.500000358
@@ -37225,21 +33336,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -37297,11 +33393,11 @@ PART
 {
 	part = fft-rcs-arcjet-large-1_4288948834
 	partName = Part
-	persistentId = 1151283420
-	pos = 8.71774006,32.3998337,-27.9737015
+	persistentId = 2139016282
+	pos = 8.7177515,32.3998871,-27.9741287
 	attPos = -1.94045219E-06,-0.438980103,0.0557310581
 	attPos0 = 1.42086378E-06,-2.960953,-2.65578079
-	rot = -0.68301332,0.183012575,0.683012724,0.183013111
+	rot = -0.683013201,0.183012664,0.683012605,0.18301402
 	attRot = 0,0,0,1
 	attRot0 = -4.76836874E-07,2.57790049E-07,-0.707106709,-0.707106888
 	mir = 1,1,1
@@ -37483,21 +33579,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -37555,11 +33636,11 @@ PART
 {
 	part = fft-rcs-arcjet-large-1_4288948538
 	partName = Part
-	persistentId = 1722511306
-	pos = -8.71124554,32.3999977,-27.9737587
+	persistentId = 66325850
+	pos = -8.7112608,32.4000473,-27.9742966
 	attPos = 4.9432706E-06,-0.438983679,0.0557310581
 	attPos0 = -2.61225955E-06,-2.96094942,-2.65577626
-	rot = -0.183012336,0.683012724,0.183013394,0.68301332
+	rot = -0.183012038,0.683012545,0.183013394,0.68301332
 	attRot = 0,0,0,1
 	attRot0 = -5.06639367E-07,4.0356997E-07,-0.707106769,-0.707106769
 	mir = 1,1,1
@@ -37741,21 +33822,6 @@ PART
 	}
 	MODULE
 	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = True
 		stagingEnabled = True
@@ -37813,11 +33879,11 @@ PART
 {
 	part = lithium-125-3_4288827202
 	partName = Part
-	persistentId = 1701748570
-	pos = 0.00321844965,41.1435699,-63.9982872
+	persistentId = 3818505966
+	pos = 0.00321129686,41.1436539,-63.9989052
 	attPos = -4.28189253E-07,0.457183838,-8.3038376E-06
 	attPos0 = -7.85192412E-07,-0.657287598,8.65253583E-07
-	rot = 0.707106948,7.08902945E-08,-1.97330834E-07,0.707106709
+	rot = 0.707106948,1.34110721E-07,-1.34110692E-07,0.707106709
 	attRot = 0,0,0,1
 	attRot0 = 2.08616271E-07,4.76836789E-07,1.10549037E-08,-1
 	mir = 1,1,1
@@ -37915,70 +33981,6 @@ PART
 	}
 	MODULE
 	{
-		name = KSPTextureSwitch
-		isEnabled = True
-		currentTextureSet = NFP_Paint_NFP_Lithium125_Tank
-		persistentData = 0.1803922,0.1803922,0.1803922,0.1254902,0,1;0.8313726,0.6862745,0.2156863,0.6901961,1,1;0.5019608,0.1254902,0.1254902,0.1254902,0,1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KSPTextureSwitch
-		isEnabled = True
-		currentTextureSet = NFP_Paint_NFP_Lithium125_Frame
-		persistentData = 0.1176471,0.1176471,0.1176471,0.1254902,0,1;0.1176471,0.1176471,0.1176471,0.1254902,0,1;0.1176471,0.1176471,0.1176471,0.1254902,0,1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SSTURecolorGUI
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1
@@ -38015,11 +34017,11 @@ PART
 {
 	part = lithium-125-3_4288824926
 	partName = Part
-	persistentId = 1961796570
-	pos = 3.21785688,35.5753288,-63.9983215
+	persistentId = 3050202561
+	pos = 3.21784878,35.5754051,-63.9989319
 	attPos = -4.19046273E-06,0.457084656,-1.46483726E-05
 	attPos0 = 7.41302756E-07,-0.657279968,-6.04812521E-06
-	rot = 0.353552818,-0.612372875,-0.612372875,0.353552997
+	rot = 0.353552639,-0.612373054,-0.612373054,0.353552818
 	attRot = 0,0,0,1
 	attRot0 = 1.92110321E-07,4.47034722E-07,2.48828229E-08,-1
 	mir = 1,1,1
@@ -38117,70 +34119,6 @@ PART
 	}
 	MODULE
 	{
-		name = KSPTextureSwitch
-		isEnabled = True
-		currentTextureSet = NFP_Paint_NFP_Lithium125_Tank
-		persistentData = 0.1803922,0.1803922,0.1803922,0.1254902,0,1;0.8313726,0.6862745,0.2156863,0.6901961,1,1;0.5019608,0.1254902,0.1254902,0.1254902,0,1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KSPTextureSwitch
-		isEnabled = True
-		currentTextureSet = NFP_Paint_NFP_Lithium125_Frame
-		persistentData = 0.1176471,0.1176471,0.1176471,0.1254902,0,1;0.1176471,0.1176471,0.1176471,0.1254902,0,1;0.1176471,0.1176471,0.1176471,0.1254902,0,1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SSTURecolorGUI
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1
@@ -38217,8 +34155,8 @@ PART
 {
 	part = lithium-125-3_4288824856
 	partName = Part
-	persistentId = 4175503996
-	pos = -3.21146393,35.5752678,-63.9982758
+	persistentId = 1116300817
+	pos = -3.21145868,35.5753365,-63.9988785
 	attPos = -3.54127451E-06,0.457092285,-1.64902431E-05
 	attPos0 = 2.52006294E-06,-0.657279968,-4.6073269E-06
 	rot = -0.353553683,-0.612372696,-0.612372577,-0.353553325
@@ -38319,70 +34257,6 @@ PART
 	}
 	MODULE
 	{
-		name = KSPTextureSwitch
-		isEnabled = True
-		currentTextureSet = NFP_Paint_NFP_Lithium125_Tank
-		persistentData = 0.1803922,0.1803922,0.1803922,0.1254902,0,1;0.8313726,0.6862745,0.2156863,0.6901961,1,1;0.5019608,0.1254902,0.1254902,0.1254902,0,1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KSPTextureSwitch
-		isEnabled = True
-		currentTextureSet = NFP_Paint_NFP_Lithium125_Frame
-		persistentData = 0.1176471,0.1176471,0.1176471,0.1254902,0,1;0.1176471,0.1176471,0.1176471,0.1254902,0,1;0.1176471,0.1176471,0.1176471,0.1254902,0,1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SSTURecolorGUI
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = TweakScale
 		isEnabled = True
 		currentScaleFactor = 1
@@ -38419,11 +34293,11 @@ PART
 {
 	part = adapterSmallMiniShort_4288818986
 	partName = Part
-	persistentId = 146460273
-	pos = 0.00321994093,41.1436119,-64.4666443
+	persistentId = 1940424939
+	pos = 0.00321684126,41.1437035,-64.4673538
 	attPos = 0,0,0
 	attPos0 = -5.16285468E-07,-0.468071043,-7.13989448E-06
-	rot = 0.707106709,-1.11758986E-07,-1.11758986E-07,-0.707106948
+	rot = 0.707106709,-1.11759157E-07,-1.11759157E-07,-0.707106948
 	attRot = 0.99999994,0,0,0
 	attRot0 = 1,-1.15462813E-14,-2.84216993E-14,4.26325574E-14
 	mir = 1,1,1
@@ -38530,37 +34404,7 @@ PART
 		isEnabled = True
 		useVariantMass = True
 		stagingEnabled = True
-		selectedVariant = Dark
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
+		selectedVariant = Metal
 		EVENTS
 		{
 		}
@@ -38615,11 +34459,11 @@ PART
 {
 	part = adapterSmallMiniShort_4288782824
 	partName = Part
-	persistentId = 1547482145
-	pos = 3.21789551,35.5752831,-64.466713
+	persistentId = 58213416
+	pos = 3.21788502,35.5753593,-64.4674149
 	attPos = 0,0,0
 	attPos0 = 8.64212666E-07,-0.468070984,-6.51677556E-06
-	rot = 0.353552908,-0.612373054,0.612373054,-0.35355261
+	rot = 0.353552878,-0.612373054,0.612373054,-0.35355258
 	attRot = 0.99999994,0,0,0
 	attRot0 = 1,1.99636152E-09,-8.94069387E-08,-3.32601395E-08
 	mir = 1,1,1
@@ -38726,37 +34570,7 @@ PART
 		isEnabled = True
 		useVariantMass = True
 		stagingEnabled = True
-		selectedVariant = Dark
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
+		selectedVariant = Metal
 		EVENTS
 		{
 		}
@@ -38811,8 +34625,8 @@ PART
 {
 	part = adapterSmallMiniShort_4288782718
 	partName = Part
-	persistentId = 2155532546
-	pos = -3.21150208,35.5752144,-64.466629
+	persistentId = 1204971601
+	pos = -3.21150208,35.5752831,-64.4673386
 	attPos = 0,0,0
 	attPos0 = -1.09677853E-06,-0.468063354,-6.08405708E-06
 	rot = -0.353553474,-0.612372577,0.612372458,0.353553772
@@ -38922,37 +34736,7 @@ PART
 		isEnabled = True
 		useVariantMass = True
 		stagingEnabled = True
-		selectedVariant = Dark
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
+		selectedVariant = Metal
 		EVENTS
 		{
 		}
@@ -39007,11 +34791,11 @@ PART
 {
 	part = sspx-adapter-1875-125-1_4290204148
 	partName = Part
-	persistentId = 2889152962
-	pos = -4.87014771,37.4311409,-22.6459351
+	persistentId = 4114750838
+	pos = -4.87014484,37.4312172,-22.6459732
 	attPos = 0,0,0
 	attPos0 = -1.27571793E-05,0.567378759,1.20268865E-07
-	rot = -0.500000358,0.500000238,-0.499999583,-0.500000358
+	rot = -0.500000238,0.500000894,-0.499999017,-0.500000358
 	attRot = 0,0,-0.707106709,-0.707106709
 	attRot0 = 2.31807945E-07,-5.96046306E-08,-2.73954242E-07,1
 	mir = 1,1,1
@@ -39162,36 +34946,6 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleB9PartInfo
 		isEnabled = False
 		stagingEnabled = True
@@ -39249,11 +35003,11 @@ PART
 {
 	part = ht2.bipod.strut_4289589496
 	partName = CompoundPart
-	persistentId = 3247551903
-	pos = 0.004136723,54.9455948,-49.8452988
+	persistentId = 3338078334
+	pos = 0.00412527891,54.9456978,-49.8457565
 	attPos = 5.19995594,12.184783,-7.3471818
 	attPos0 = 4.68964845E-06,-12.1847916,-0.252768517
-	rot = 5.36441803E-07,0.707107186,7.15255737E-07,0.707106709
+	rot = 5.06639481E-07,0.707106948,2.98023224E-07,0.707106948
 	attRot = 7.37571213E-08,-1.00080317E-13,-3.16102344E-08,1.00000048
 	attRot0 = -1.42315368E-08,0.707107008,-2.04538324E-07,-0.70710665
 	mir = 1,1,1
@@ -39337,10 +35091,10 @@ PART
 	PARTDATA
 	{
 		tgt = 4291073972
-		tpersID = 1655636117
-		pos = -5.19987488,-7.59989166,-1.66893005E-05
-		rot = 0.500000834,0.500001371,0.500001013,-0.500000119
-		dir = -0.564680159,-0.825309873,-1.81237374E-06
+		tpersID = 2152892367
+		pos = -5.19983006,-7.5998826,-2.52723694E-05
+		rot = 0.500001907,0.500002444,0.500002086,-0.500001192
+		dir = -0.564677298,-0.82531178,-2.74446143E-06
 		col = COL.001
 	}
 	MODULE
@@ -39380,21 +35134,6 @@ PART
 	MODULE
 	{
 		name = ModuleRestockLinkedMesh
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
 		isEnabled = True
 		stagingEnabled = True
 		EVENTS
@@ -39451,11 +35190,11 @@ PART
 {
 	part = dockingPort2_4291983770
 	partName = Part
-	persistentId = 3727246038
-	pos = -5.04999924,37.4311409,-22.6459312
+	persistentId = 2951121412
+	pos = -5.04999638,37.4312172,-22.6459465
 	attPos = 0,0,0
 	attPos0 = -5.06656122,64.5783234,-22.5151672
-	rot = -0.500000358,0.50000006,-0.499999791,-0.500000358
+	rot = -0.500000238,0.500000656,-0.499999255,-0.500000358
 	attRot = 0,0,-0.707106709,-0.707106709
 	attRot0 = 0.707106769,0,0,0.707106769
 	mir = 1,1,1
@@ -39634,81 +35373,6 @@ PART
 	}
 	MODULE
 	{
-		name = DPSoundFX
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleFreeIva
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = RSE_Coupler
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ShipEffectsCollisions
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = SCANRPMStorage
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleColorChanger
 		isEnabled = True
 		animState = False
@@ -39772,6 +35436,1416 @@ PART
 		type = stack
 		defaultScale = 1.25
 		currentScale = 1.25
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = launchClamp1_4293540338
+	partName = Part
+	persistentId = 64386162
+	pos = -2.01456881,38.7856407,-10.8854036
+	attPos = 0,0,0
+	attPos0 = 2.01457262,-0.292968661,-1.3544383
+	rot = -0.707106709,2.68220901E-07,-0.707107067,-5.96046448E-08
+	attRot = 0,0,-0.707106769,0.707106769
+	attRot0 = 0.500000119,-0.499999851,-0.5,0.50000006
+	mir = 1,1,1
+	symMethod = Mirror
+	autostrutMode = Heaviest
+	rigidAttachment = True
+	istg = 0
+	resPri = 0
+	dstg = 0
+	sidx = 0
+	sqor = 0
+	sepI = 0
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = launchClamp1_4293538768
+	srfN = srfAttach,ht2.moduleJEMlogistics_4287195538,collider,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleGenerator
+		isEnabled = True
+		generatorIsActive = False
+		throttle = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ActivateAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ShutdownAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRestockLaunchClamp
+		isEnabled = True
+		scaleFactor = 18.1814899
+		height = 36.3629799
+		stagingEnabled = True
+		towerRot = 0.70710659,-1.96357675E-07,0.707107067,-1.43480294E-08
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ReleaseClamp
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleAnimateGeneric
+		isEnabled = True
+		aniState = LOCKED
+		animSwitch = True
+		animTime = 0
+		animSpeed = 1
+		deployPercent = 100
+		animationIsDisabled = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		AXISGROUPS
+		{
+			deployPercent
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+				overrideIncremental0 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental1 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental2 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental3 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleB9PartSwitch
+		isEnabled = True
+		stagingEnabled = True
+		moduleID = SimpleRepaint
+		currentSubtype = SR_Original
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 1
+		defaultTransformScale = (0, 0, 0)
+		extraCost = 0
+		extraMass = 0
+		stagingEnabled = True
+		type = free
+		defaultScale = 100
+		currentScale = 100
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = launchClamp1_4293538768
+	partName = Part
+	persistentId = 3698049656
+	pos = 2.01457596,38.7856407,-10.8854036
+	attPos = 0,0,0
+	attPos0 = -2.01457119,-0.29296872,-1.35443938
+	rot = -0.707106769,2.98023224E-08,0.707107067,0
+	attRot = 0,0,0,1
+	attRot0 = -0.5,-0.499999791,-0.500000179,-0.50000006
+	mir = 1,1,1
+	symMethod = Mirror
+	autostrutMode = Heaviest
+	rigidAttachment = True
+	istg = 0
+	resPri = 0
+	dstg = 0
+	sidx = 0
+	sqor = 0
+	sepI = 0
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = launchClamp1_4293540338
+	srfN = srfAttach,ht2.moduleJEMlogistics_4287195538,collider,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleGenerator
+		isEnabled = True
+		generatorIsActive = False
+		throttle = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ActivateAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ShutdownAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRestockLaunchClamp
+		isEnabled = True
+		scaleFactor = 18.181488
+		height = 36.3629761
+		stagingEnabled = True
+		towerRot = 0.707106769,-1.08057016E-07,-0.707106948,-1.03754971E-07
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ReleaseClamp
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleAnimateGeneric
+		isEnabled = True
+		aniState = LOCKED
+		animSwitch = True
+		animTime = 0
+		animSpeed = 1
+		deployPercent = 100
+		animationIsDisabled = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		AXISGROUPS
+		{
+			deployPercent
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleB9PartSwitch
+		isEnabled = True
+		stagingEnabled = True
+		moduleID = SimpleRepaint
+		currentSubtype = SR_Original
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 1
+		defaultTransformScale = (0, 0, 0)
+		extraCost = 0
+		extraMass = 0
+		stagingEnabled = True
+		type = free
+		defaultScale = 100
+		currentScale = 100
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = launchClamp1_4293531788
+	partName = Part
+	persistentId = 3363637933
+	pos = -2.79305792,35.2968941,-38.9269829
+	attPos = 0,0,0
+	attPos0 = -2.79624248,0.827991486,2.13436031
+	rot = 0.612372875,0.353553236,0.612372518,-0.353553653
+	attRot = 0,0,0.707106769,0.707106769
+	attRot0 = 0.683012724,0.683012724,0.183012545,0.183012918
+	mir = 1,1,1
+	symMethod = Mirror
+	autostrutMode = Heaviest
+	rigidAttachment = True
+	istg = 0
+	resPri = 0
+	dstg = 0
+	sidx = 1
+	sqor = 0
+	sepI = 0
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = launchClamp1_4293510078
+	srfN = srfAttach,sspx-habitation-375-3_4288361904,COLLIDERCYL,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleGenerator
+		isEnabled = True
+		generatorIsActive = False
+		throttle = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ActivateAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ShutdownAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRestockLaunchClamp
+		isEnabled = True
+		scaleFactor = 16.4108524
+		height = 32.821701
+		stagingEnabled = True
+		towerRot = -0.612372577,-0.353553236,-0.612372398,-0.353553504
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ReleaseClamp
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleAnimateGeneric
+		isEnabled = True
+		aniState = LOCKED
+		animSwitch = True
+		animTime = 0
+		animSpeed = 1
+		deployPercent = 100
+		animationIsDisabled = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		AXISGROUPS
+		{
+			deployPercent
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+				overrideIncremental0 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental1 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental2 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental3 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleB9PartSwitch
+		isEnabled = True
+		stagingEnabled = True
+		moduleID = SimpleRepaint
+		currentSubtype = SR_Original
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 1
+		defaultTransformScale = (0, 0, 0)
+		extraCost = 0
+		extraMass = 0
+		stagingEnabled = True
+		type = free
+		defaultScale = 100
+		currentScale = 100
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = launchClamp1_4293510078
+	partName = Part
+	persistentId = 2251866276
+	pos = 2.79942417,35.2968941,-38.9269829
+	attPos = 0,0,0
+	attPos0 = 2.79623985,0.82799232,2.13436174
+	rot = 0.612372518,-0.353553534,-0.612372398,-0.353553891
+	attRot = 0,0,0.707106769,0.707106769
+	attRot0 = 0.683012843,-0.683012784,-0.183012158,0.183012605
+	mir = 1,1,1
+	symMethod = Mirror
+	autostrutMode = Heaviest
+	rigidAttachment = True
+	istg = 0
+	resPri = 0
+	dstg = 0
+	sidx = 1
+	sqor = 0
+	sepI = 0
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = launchClamp1_4293531788
+	srfN = srfAttach,sspx-habitation-375-3_4288361904,COLLIDERCYL,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleGenerator
+		isEnabled = True
+		generatorIsActive = False
+		throttle = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ActivateAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ShutdownAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRestockLaunchClamp
+		isEnabled = True
+		scaleFactor = 16.4108639
+		height = 32.821701
+		stagingEnabled = True
+		towerRot = -0.612372458,0.353553534,0.61237222,-0.353553593
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ReleaseClamp
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleAnimateGeneric
+		isEnabled = True
+		aniState = LOCKED
+		animSwitch = True
+		animTime = 0
+		animSpeed = 1
+		deployPercent = 100
+		animationIsDisabled = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		AXISGROUPS
+		{
+			deployPercent
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleB9PartSwitch
+		isEnabled = True
+		stagingEnabled = True
+		moduleID = SimpleRepaint
+		currentSubtype = SR_Original
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 1
+		defaultTransformScale = (0, 0, 0)
+		extraCost = 0
+		extraMass = 0
+		stagingEnabled = True
+		type = free
+		defaultScale = 100
+		currentScale = 100
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = launchClamp1_4293506768
+	partName = Part
+	persistentId = 1558629891
+	pos = -3.82758904,38.785759,-59.9191551
+	attPos = 0,0,0
+	attPos0 = -3.83078551,2.12875009,1.35443366
+	rot = -0.647043884,3.27825546E-07,-0.762453198,0
+	attRot = 0,0,0.707106709,-0.707106709
+	attRot0 = 0.457529247,-0.539135516,0.539135635,-0.457529008
+	mir = 1,1,1
+	symMethod = Mirror
+	autostrutMode = Heaviest
+	rigidAttachment = True
+	istg = 0
+	resPri = 0
+	dstg = 2
+	sidx = 2
+	sqor = 0
+	sepI = 0
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = launchClamp1_4293497908
+	srfN = srfAttach,nflv-fueltank-adapter-5-375-1_4288991260,COLLIDER5MADAPT1,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleGenerator
+		isEnabled = True
+		generatorIsActive = False
+		throttle = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ActivateAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ShutdownAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRestockLaunchClamp
+		isEnabled = True
+		scaleFactor = 18.1815491
+		height = 36.3630981
+		stagingEnabled = True
+		towerRot = 0.647043586,-7.27430134E-08,0.76245302,1.02331157E-07
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ReleaseClamp
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleAnimateGeneric
+		isEnabled = True
+		aniState = LOCKED
+		animSwitch = False
+		animTime = 1
+		animSpeed = 0.333333343
+		deployPercent = 100
+		animationIsDisabled = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		AXISGROUPS
+		{
+			deployPercent
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+				overrideIncremental0 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental1 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental2 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				overrideIncremental3 = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleB9PartSwitch
+		isEnabled = True
+		stagingEnabled = True
+		moduleID = SimpleRepaint
+		currentSubtype = SR_Original
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 1
+		defaultTransformScale = (0, 0, 0)
+		extraCost = 0
+		extraMass = 0
+		stagingEnabled = True
+		type = free
+		defaultScale = 100
+		currentScale = 100
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = launchClamp1_4293497908
+	partName = Part
+	persistentId = 1261610046
+	pos = 3.83398008,38.785759,-59.9191551
+	attPos = 0,0,0
+	attPos0 = 3.83078647,2.12874722,1.35443377
+	rot = -0.647044182,8.94069672E-08,0.762452841,7.15255737E-07
+	attRot = 0,0,0.707106709,-0.707106709
+	attRot0 = 0.457529038,0.539135218,-0.539135754,-0.457529277
+	mir = 1,1,1
+	symMethod = Mirror
+	autostrutMode = Heaviest
+	rigidAttachment = True
+	istg = 0
+	resPri = 0
+	dstg = 2
+	sidx = 2
+	sqor = 0
+	sepI = 0
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = launchClamp1_4293506768
+	srfN = srfAttach,nflv-fueltank-adapter-5-375-1_4288991260,COLLIDER5MADAPT1,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleGenerator
+		isEnabled = True
+		generatorIsActive = False
+		throttle = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ActivateAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ShutdownAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRestockLaunchClamp
+		isEnabled = True
+		scaleFactor = 18.1815472
+		height = 36.3630943
+		stagingEnabled = True
+		towerRot = 0.647044063,-1.06070914E-07,-0.762452602,6.11405312E-07
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ReleaseClamp
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleAnimateGeneric
+		isEnabled = True
+		aniState = LOCKED
+		animSwitch = False
+		animTime = 1
+		animSpeed = 0.333333343
+		deployPercent = 100
+		animationIsDisabled = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		AXISGROUPS
+		{
+			deployPercent
+			{
+				axisGroup = None
+				axisIncremental = Pitch, Yaw, Roll, TranslateX, TranslateY, TranslateZ, WheelSteer, WheelThrottle, Custom01, Custom02, Custom03, Custom04
+				axisSpeedMultiplier = 0
+				axisInverted = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleB9PartSwitch
+		isEnabled = True
+		stagingEnabled = True
+		moduleID = SimpleRepaint
+		currentSubtype = SR_Original
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 1
+		defaultTransformScale = (0, 0, 0)
+		extraCost = 0
+		extraMass = 0
+		stagingEnabled = True
+		type = free
+		defaultScale = 100
+		currentScale = 100
 		EVENTS
 		{
 		}

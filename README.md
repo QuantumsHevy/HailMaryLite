@@ -17,7 +17,6 @@ All of these mods are available to download via CKAN. At a minimum, I recommend 
 - [HabTech2](https://github.com/benjee10/HabTech2)
 - [Sterling Thermals](https://github.com/JadeOfMaar/SterlingSystems)
 - [Procedural Parts](https://github.com/KSP-RO/ProceduralParts)
-- [Conformal Decals](https://git.offworld.city/drewcassidy/KSP-Conformal-Decals)
 
 **Editing**
 - [TU NearFutureLaunchVehicles](https://github.com/ZZetho/TU_NearFutureLaunchVehicles)
@@ -37,6 +36,7 @@ All of these mods are available to download via CKAN. At a minimum, I recommend 
 - [Engine ISP x2](https://github.com/miki-g/M-ISPx2)
 - [HyperEdit](https://github.com/Ezriilc/HyperEdit)
 - [Kerbal Engineer Redux](https://github.com/jrbudda/KerbalEngineer)
+- [MechJeb2](https://github.com/MuMech/MechJeb2)
 
 ## Installation
 After installing all the required mods and their dependencies, download the repository ZIP by clicking the green "Code" button and then clicking "Download ZIP". Unzip the resulting file and copy/paste the contents of `SPH` into your save's folder of the same name. 
@@ -48,13 +48,13 @@ KerbalSpaceProgram/
     └── <your save's name>/
         └── Ships/
             ├── SPH/
-            |   └── The Hail Mary/
+            |   └── The Hail Mary.craft
             └── VAB/
 ```
 
 ## Credits
-- **[QuantumsHevy](https://github.com/QuantumsHevy)**, original craft creator
-- **[Yukon09](https://www.youtube.com/@yukon09)**, creator of the craft used in [Hail Mary, Full of Grace](https://youtu.be/WmFkNU1Fc7Q) and primary inspiration
+- **[QuantumsHevy](https://github.com/QuantumsHevy)**, original `.craft` creator
+- **[Yukon09](https://www.youtube.com/@yukon09)**, creator of the craft used in [Hail Mary, Full of Grace](https://youtu.be/WmFkNU1Fc7Q), used as a primary source of inspiration
 
 ## License
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](./LICENSE) (CC BY-NC-SA 4.0). To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
