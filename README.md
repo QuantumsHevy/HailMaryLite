@@ -36,7 +36,7 @@ All of these mods are available to download via CKAN. At a minimum, I recommend 
 - [Engine ISP x2](https://github.com/miki-g/M-ISPx2)
 - [HyperEdit](https://github.com/Ezriilc/HyperEdit)
 - [Kerbal Engineer Redux](https://github.com/jrbudda/KerbalEngineer)
-- [MechJeb2](https://github.com/MuMech/MechJeb2)
+- [MechJeb 2](https://github.com/MuMech/MechJeb2)
 
 ## Installation
 After installing all the required mods and their dependencies, download the repository ZIP by clicking the green "Code" button and then clicking "Download ZIP". Unzip the resulting file and copy/paste the contents of `SPH` into your save's folder of the same name. 

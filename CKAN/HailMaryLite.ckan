@@ -1,0 +1,131 @@
+{
+    "spec_version": "v1.6",
+    "identifier": "HailMaryLite",
+    "name": "Hail Mary Lite",
+    "abstract": "A CKAN modpack to install all of the mods required/recommended for Hevy's lightweight Hail Mary model.",
+    "author": "Hevy",
+    "version": "2026.09.21.07.33.42",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.12",
+    "license": "CC-BY-NC-SA-4.0",
+    "depends": [
+        {
+            "name": "CryoTanks",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FarFutureTechnologies",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureConstruction",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureLaunchVehicles",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ReStock",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BetterRCS",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EditorExtensionsRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "M-ISPx2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HabTech2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HangerExtenderExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HyperEdit",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ISVEmporium",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalEngineerRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalJointReinforcementContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MechJeb2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFuturePropulsion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProceduralParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SpinDrive",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ReStockPlus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SimpleRepaint",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SterlingSystemsThermals",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StationPartsExpansionRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SuperfluousNodes",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SuperfluousNodesRenoded",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RecolorCollection-NearFutureLaunchVehicles",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-BreakingGround",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-MakingHistory",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TURD-StockRecolour",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleRescaled",
+            "suppress_recommendations": true
+        }
+    ],
+    "release_date": "2026-09-21T19:33:42.6507529Z",
+    "kind": "metapackage"
+}
